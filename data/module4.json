@@ -1,0 +1,693 @@
+{
+  "id": "module4",
+  "title": "Модуль 4. Day after day",
+  "color": "#8A6FA8",
+  "sections": [
+    {
+      "id": "4a",
+      "title": "4a. Day by day",
+      "words": [
+        {
+          "en": "wake up",
+          "transcription": "/ˌweɪk ˈʌp/",
+          "ru": "просыпаться"
+        },
+        {
+          "en": "get up",
+          "transcription": "/ˌɡet ˈʌp/",
+          "ru": "вставать"
+        },
+        {
+          "en": "wash",
+          "transcription": "/wɒʃ/",
+          "ru": "умываться"
+        },
+        {
+          "en": "brush teeth",
+          "transcription": "/ˌbrʌʃ ˈtiːθ/",
+          "ru": "чистить зубы"
+        },
+        {
+          "en": "get dressed",
+          "transcription": "/ˌɡet ˈdrest/",
+          "ru": "одеваться"
+        },
+        {
+          "en": "have breakfast",
+          "transcription": "/ˌhæv ˈbrekfəst/",
+          "ru": "завтракать"
+        },
+        {
+          "en": "go to school",
+          "transcription": "/ˌɡəʊ tə ˈskuːl/",
+          "ru": "ходить в школу"
+        },
+        {
+          "en": "do homework",
+          "transcription": "/ˌduː ˈhəʊmwɜːk/",
+          "ru": "делать домашнее задание"
+        },
+        {
+          "en": "walk the dog",
+          "transcription": "/ˌwɔːk ðə ˈdɒɡ/",
+          "ru": "гулять с собакой"
+        },
+        {
+          "en": "watch TV",
+          "transcription": "/ˌwɒtʃ ˌtiː ˈviː/",
+          "ru": "смотреть телевизор"
+        },
+        {
+          "en": "go to bed",
+          "transcription": "/ˌɡəʊ tə ˈbed/",
+          "ru": "ложиться спать"
+        },
+        {
+          "en": "have lunch",
+          "transcription": "/hæv lʌntʃ/",
+          "ru": "обедать"
+        },
+        {
+          "en": "have dinner",
+          "transcription": "/hæv ˈdɪnə/",
+          "ru": "ужинать"
+        },
+        {
+          "en": "have a shower",
+          "transcription": "/hæv ə ˈʃaʊə/",
+          "ru": "принимать душ"
+        },
+        {
+          "en": "leave home",
+          "transcription": "/liːv həʊm/",
+          "ru": "выходить из дома"
+        },
+        {
+          "en": "come home",
+          "transcription": "/kʌm həʊm/",
+          "ru": "возвращаться домой"
+        },
+        {
+          "en": "go shopping",
+          "transcription": "/ɡəʊ ˈʃɒpɪŋ/",
+          "ru": "ходить за покупками"
+        },
+        {
+          "en": "wash up",
+          "transcription": "/wɒʃ ʌp/",
+          "ru": "мыть посуду"
+        },
+        {
+          "en": "make the bed",
+          "transcription": "/meɪk ðə bed/",
+          "ru": "заправлять кровать"
+        },
+        {
+          "en": "set the table",
+          "transcription": "/set ðə ˈteɪbl/",
+          "ru": "накрывать на стол"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Я встаю в семь часов в школьные дни.",
+          "en": "I get up at seven o'clock on school days.",
+          "words": [
+            "I",
+            "get",
+            "up",
+            "at",
+            "seven",
+            "o'clock",
+            "on",
+            "school",
+            "days"
+          ]
+        },
+        {
+          "ru": "Я чищу зубы каждое утро.",
+          "en": "I brush my teeth every morning.",
+          "words": [
+            "I",
+            "brush",
+            "my",
+            "teeth",
+            "every",
+            "morning"
+          ]
+        },
+        {
+          "ru": "Я завтракаю и иду в школу в восемь часов.",
+          "en": "I have breakfast and go to school at eight o'clock.",
+          "words": [
+            "I",
+            "have",
+            "breakfast",
+            "and",
+            "go",
+            "to",
+            "school",
+            "at",
+            "eight",
+            "o'clock"
+          ]
+        },
+        {
+          "ru": "Я обедаю в школе в час дня.",
+          "en": "I have lunch at school at one o'clock.",
+          "words": [
+            "I",
+            "have",
+            "lunch",
+            "at",
+            "school",
+            "at",
+            "one",
+            "o'clock"
+          ]
+        },
+        {
+          "ru": "Она принимает душ каждое утро.",
+          "en": "She has a shower every morning.",
+          "words": [
+            "She",
+            "has",
+            "a",
+            "shower",
+            "every",
+            "morning"
+          ]
+        },
+        {
+          "ru": "Я выхожу из дома в восемь часов.",
+          "en": "I leave home at eight o'clock.",
+          "words": [
+            "I",
+            "leave",
+            "home",
+            "at",
+            "eight",
+            "o'clock"
+          ]
+        },
+        {
+          "ru": "Я возвращаюсь домой в четыре часа.",
+          "en": "I come home at four o'clock.",
+          "words": [
+            "I",
+            "come",
+            "home",
+            "at",
+            "four",
+            "o'clock"
+          ]
+        },
+        {
+          "ru": "Я мою посуду после ужина.",
+          "en": "I wash up after dinner.",
+          "words": [
+            "I",
+            "wash",
+            "up",
+            "after",
+            "dinner"
+          ]
+        },
+        {
+          "ru": "Он заправляет кровать каждое утро.",
+          "en": "He makes the bed every morning.",
+          "words": [
+            "He",
+            "makes",
+            "the",
+            "bed",
+            "every",
+            "morning"
+          ]
+        }
+      ],
+      "reading": [
+        "I get up at seven o'clock on school days.",
+        "I brush my teeth every morning.",
+        "I have breakfast and go to school at eight o'clock.",
+        "I have lunch at school at one o'clock.",
+        "She has a shower every morning.",
+        "I leave home at eight o'clock and come home at four.",
+        "I wash up after dinner and make the bed in the morning."
+      ]
+    },
+    {
+      "id": "4b",
+      "title": "4b. Work and jobs",
+      "words": [
+        {
+          "en": "journalist",
+          "transcription": "/ˈdʒɜːnəlɪst/",
+          "ru": "журналист"
+        },
+        {
+          "en": "doctor",
+          "transcription": "/ˈdɒktə/",
+          "ru": "врач"
+        },
+        {
+          "en": "teacher",
+          "transcription": "/ˈtiːtʃə/",
+          "ru": "учитель"
+        },
+        {
+          "en": "driver",
+          "transcription": "/ˈdraɪvə/",
+          "ru": "водитель"
+        },
+        {
+          "en": "pilot",
+          "transcription": "/ˈpaɪlət/",
+          "ru": "пилот"
+        },
+        {
+          "en": "nurse",
+          "transcription": "/nɜːs/",
+          "ru": "медсестра"
+        },
+        {
+          "en": "cook",
+          "transcription": "/kʊk/",
+          "ru": "повар"
+        },
+        {
+          "en": "waiter",
+          "transcription": "/ˈweɪtə/",
+          "ru": "официант"
+        },
+        {
+          "en": "mechanic",
+          "transcription": "/məˈkænɪk/",
+          "ru": "механик"
+        },
+        {
+          "en": "secretary",
+          "transcription": "/ˈsekrətri/",
+          "ru": "секретарь"
+        },
+        {
+          "en": "dentist",
+          "transcription": "/ˈdentɪst/",
+          "ru": "стоматолог"
+        },
+        {
+          "en": "lawyer",
+          "transcription": "/ˈlɔːjə/",
+          "ru": "юрист, адвокат"
+        },
+        {
+          "en": "postman",
+          "transcription": "/ˈpəʊstmən/",
+          "ru": "почтальон"
+        },
+        {
+          "en": "builder",
+          "transcription": "/ˈbɪldə/",
+          "ru": "строитель"
+        },
+        {
+          "en": "engineer",
+          "transcription": "/ˌendʒɪˈnɪə/",
+          "ru": "инженер"
+        },
+        {
+          "en": "vet",
+          "transcription": "/vet/",
+          "ru": "ветеринар"
+        },
+        {
+          "en": "farmer",
+          "transcription": "/ˈfɑːmə/",
+          "ru": "фермер"
+        },
+        {
+          "en": "police officer",
+          "transcription": "/pəˈliːs ˌɒfɪsə/",
+          "ru": "полицейский"
+        },
+        {
+          "en": "fire fighter",
+          "transcription": "/ˈfaɪə ˌfaɪtə/",
+          "ru": "пожарный"
+        },
+        {
+          "en": "artist",
+          "transcription": "/ˈɑːtɪst/",
+          "ru": "художник"
+        },
+        {
+          "en": "musician",
+          "transcription": "/mjuˈzɪʃn/",
+          "ru": "музыкант"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Моя мама — учительница.",
+          "en": "My mum is a teacher.",
+          "words": [
+            "My",
+            "mum",
+            "is",
+            "a",
+            "teacher"
+          ]
+        },
+        {
+          "ru": "Мой папа работает пилотом.",
+          "en": "My dad works as a pilot.",
+          "words": [
+            "My",
+            "dad",
+            "works",
+            "as",
+            "a",
+            "pilot"
+          ]
+        },
+        {
+          "ru": "Моя сестра — медсестра, и она работает по ночам.",
+          "en": "My sister is a nurse and she works at night.",
+          "words": [
+            "My",
+            "sister",
+            "is",
+            "a",
+            "nurse",
+            "and",
+            "she",
+            "works",
+            "at",
+            "night"
+          ]
+        },
+        {
+          "ru": "Мой дядя работает почтальоном.",
+          "en": "My uncle works as a postman.",
+          "words": [
+            "My",
+            "uncle",
+            "works",
+            "as",
+            "a",
+            "postman"
+          ]
+        },
+        {
+          "ru": "Её папа — полицейский.",
+          "en": "Her dad is a police officer.",
+          "words": [
+            "Her",
+            "dad",
+            "is",
+            "a",
+            "police",
+            "officer"
+          ]
+        },
+        {
+          "ru": "Мой брат хочет быть инженером.",
+          "en": "My brother wants to be an engineer.",
+          "words": [
+            "My",
+            "brother",
+            "wants",
+            "to",
+            "be",
+            "an",
+            "engineer"
+          ]
+        },
+        {
+          "ru": "Журналист иногда работает допоздна.",
+          "en": "A journalist sometimes works late in the evening.",
+          "words": [
+            "A",
+            "journalist",
+            "sometimes",
+            "works",
+            "late",
+            "in",
+            "the",
+            "evening"
+          ]
+        }
+      ],
+      "reading": [
+        "My mum is a teacher at a small school.",
+        "My dad works as a pilot.",
+        "My sister is a nurse and she works at night.",
+        "My uncle works as a postman.",
+        "Her dad is a police officer.",
+        "My brother wants to be an engineer.",
+        "A journalist sometimes works late in the evening."
+      ]
+    },
+    {
+      "id": "4c",
+      "title": "4c. Cultural diversity",
+      "words": [
+        {
+          "en": "always",
+          "transcription": "/ˈɔːlweɪz/",
+          "ru": "всегда"
+        },
+        {
+          "en": "usually",
+          "transcription": "/ˈjuːʒuəli/",
+          "ru": "обычно"
+        },
+        {
+          "en": "often",
+          "transcription": "/ˈɒfn/",
+          "ru": "часто"
+        },
+        {
+          "en": "sometimes",
+          "transcription": "/ˈsʌmtaɪmz/",
+          "ru": "иногда"
+        },
+        {
+          "en": "never",
+          "transcription": "/ˈnevə/",
+          "ru": "никогда"
+        },
+        {
+          "en": "once a week",
+          "transcription": "/ˌwʌns ə ˈwiːk/",
+          "ru": "раз в неделю"
+        },
+        {
+          "en": "twice a week",
+          "transcription": "/ˌtwaɪs ə ˈwiːk/",
+          "ru": "дважды в неделю"
+        },
+        {
+          "en": "every day",
+          "transcription": "/ˈevri deɪ/",
+          "ru": "каждый день"
+        },
+        {
+          "en": "rarely",
+          "transcription": "/ˈreəli/",
+          "ru": "редко"
+        },
+        {
+          "en": "be late",
+          "transcription": "/biː ˈleɪt/",
+          "ru": "опаздывать"
+        },
+        {
+          "en": "be on time",
+          "transcription": "/biː ɒn ˈtaɪm/",
+          "ru": "приходить вовремя"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Я никогда не опаздываю в школу.",
+          "en": "I am never late for school.",
+          "words": [
+            "I",
+            "am",
+            "never",
+            "late",
+            "for",
+            "school"
+          ]
+        },
+        {
+          "ru": "Мой брат часто смотрит телевизор.",
+          "en": "My brother often watches TV.",
+          "words": [
+            "My",
+            "brother",
+            "often",
+            "watches",
+            "TV"
+          ]
+        },
+        {
+          "ru": "Она обычно делает домашнее задание в пять часов.",
+          "en": "She usually does her homework at five o'clock.",
+          "words": [
+            "She",
+            "usually",
+            "does",
+            "her",
+            "homework",
+            "at",
+            "five",
+            "o'clock"
+          ]
+        },
+        {
+          "ru": "Мы гуляем с собакой дважды в неделю.",
+          "en": "We walk the dog twice a week.",
+          "words": [
+            "We",
+            "walk",
+            "the",
+            "dog",
+            "twice",
+            "a",
+            "week"
+          ]
+        },
+        {
+          "ru": "Он всегда приходит в школу вовремя.",
+          "en": "He always comes to school on time.",
+          "words": [
+            "He",
+            "always",
+            "comes",
+            "to",
+            "school",
+            "on",
+            "time"
+          ]
+        },
+        {
+          "ru": "Он редко опаздывает в школу.",
+          "en": "He is rarely late for school.",
+          "words": [
+            "He",
+            "is",
+            "rarely",
+            "late",
+            "for",
+            "school"
+          ]
+        },
+        {
+          "ru": "Мама ходит за покупками каждую субботу.",
+          "en": "My mum goes shopping every Saturday.",
+          "words": [
+            "My",
+            "mum",
+            "goes",
+            "shopping",
+            "every",
+            "Saturday"
+          ]
+        }
+      ],
+      "reading": [
+        "I am never late for school.",
+        "My brother often watches TV.",
+        "She usually does her homework at five o'clock.",
+        "We walk the dog twice a week.",
+        "He always comes to school on time.",
+        "He is rarely late for school.",
+        "My mum goes shopping every Saturday."
+      ]
+    },
+    {
+      "id": "4d",
+      "title": "4d. Culture Corner",
+      "words": [
+        {
+          "en": "shift",
+          "transcription": "/ʃɪft/",
+          "ru": "смена"
+        },
+        {
+          "en": "full-time",
+          "transcription": "/ˌfʊl ˈtaɪm/",
+          "ru": "полный рабочий день"
+        },
+        {
+          "en": "part-time",
+          "transcription": "/ˌpɑːt ˈtaɪm/",
+          "ru": "неполный рабочий день"
+        },
+        {
+          "en": "salary",
+          "transcription": "/ˈsæləri/",
+          "ru": "зарплата"
+        },
+        {
+          "en": "boring",
+          "transcription": "/ˈbɔːrɪŋ/",
+          "ru": "скучный"
+        },
+        {
+          "en": "exciting",
+          "transcription": "/ɪkˈsaɪtɪŋ/",
+          "ru": "увлекательный"
+        },
+        {
+          "en": "well-paid",
+          "transcription": "/ˌwel ˈpeɪd/",
+          "ru": "хорошо оплачиваемый"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Его работа очень увлекательная.",
+          "en": "His job is very exciting.",
+          "words": [
+            "His",
+            "job",
+            "is",
+            "very",
+            "exciting"
+          ]
+        },
+        {
+          "ru": "Мой папа работает полный рабочий день.",
+          "en": "My dad works full-time.",
+          "words": [
+            "My",
+            "dad",
+            "works",
+            "full-time"
+          ]
+        },
+        {
+          "ru": "Быть пожарным — это не скучно.",
+          "en": "Being a fire fighter is not boring.",
+          "words": [
+            "Being",
+            "a",
+            "fire",
+            "fighter",
+            "is",
+            "not",
+            "boring"
+          ]
+        }
+      ],
+      "reading": [
+        "His job is very exciting and not boring.",
+        "My dad works full-time and gets a good salary.",
+        "Being a fire fighter is not boring."
+      ]
+    }
+  ]
+}

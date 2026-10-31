@@ -1,0 +1,684 @@
+{
+  "id": "module5",
+  "title": "Модуль 5. Feasts",
+  "color": "#B2665F",
+  "sections": [
+    {
+      "id": "5a",
+      "title": "5a. Festive time",
+      "words": [
+        {
+          "en": "celebrate",
+          "transcription": "/ˈselɪbreɪt/",
+          "ru": "праздновать"
+        },
+        {
+          "en": "celebration",
+          "transcription": "/ˌselɪˈbreɪʃn/",
+          "ru": "празднование"
+        },
+        {
+          "en": "party",
+          "transcription": "/ˈpɑːti/",
+          "ru": "вечеринка"
+        },
+        {
+          "en": "invite",
+          "transcription": "/ɪnˈvaɪt/",
+          "ru": "приглашать"
+        },
+        {
+          "en": "guest",
+          "transcription": "/ɡest/",
+          "ru": "гость"
+        },
+        {
+          "en": "present",
+          "transcription": "/ˈpreznt/",
+          "ru": "подарок"
+        },
+        {
+          "en": "card",
+          "transcription": "/kɑːd/",
+          "ru": "открытка"
+        },
+        {
+          "en": "candle",
+          "transcription": "/ˈkændl/",
+          "ru": "свеча"
+        },
+        {
+          "en": "cake",
+          "transcription": "/keɪk/",
+          "ru": "торт"
+        },
+        {
+          "en": "balloon",
+          "transcription": "/bəˈluːn/",
+          "ru": "воздушный шарик"
+        },
+        {
+          "en": "fireworks",
+          "transcription": "/ˈfaɪəwɜːks/",
+          "ru": "фейерверк"
+        },
+        {
+          "en": "decorate",
+          "transcription": "/ˈdekəreɪt/",
+          "ru": "украшать"
+        },
+        {
+          "en": "tradition",
+          "transcription": "/trəˈdɪʃn/",
+          "ru": "традиция"
+        },
+        {
+          "en": "Christmas",
+          "transcription": "/ˈkrɪsməs/",
+          "ru": "Рождество"
+        },
+        {
+          "en": "New Year",
+          "transcription": "/ˌnjuː ˈjɪə/",
+          "ru": "Новый год"
+        },
+        {
+          "en": "Easter",
+          "transcription": "/ˈiːstə/",
+          "ru": "Пасха"
+        },
+        {
+          "en": "Halloween",
+          "transcription": "/ˌhæləʊˈiːn/",
+          "ru": "Хэллоуин"
+        },
+        {
+          "en": "birthday",
+          "transcription": "/ˈbɜːθdeɪ/",
+          "ru": "день рождения"
+        },
+        {
+          "en": "wedding",
+          "transcription": "/ˈwedɪŋ/",
+          "ru": "свадьба"
+        },
+        {
+          "en": "holiday",
+          "transcription": "/ˈhɒlədeɪ/",
+          "ru": "праздник"
+        },
+        {
+          "en": "anniversary",
+          "transcription": "/ˌænɪˈvɜːsəri/",
+          "ru": "годовщина"
+        },
+        {
+          "en": "relatives",
+          "transcription": "/ˈrelətɪvz/",
+          "ru": "родственники"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Рождество — мой любимый праздник.",
+          "en": "Christmas is my favourite holiday.",
+          "words": [
+            "Christmas",
+            "is",
+            "my",
+            "favourite",
+            "holiday"
+          ]
+        },
+        {
+          "ru": "Мы украшаем дом воздушными шариками.",
+          "en": "We decorate the house with balloons.",
+          "words": [
+            "We",
+            "decorate",
+            "the",
+            "house",
+            "with",
+            "balloons"
+          ]
+        },
+        {
+          "ru": "Моя вечеринка по случаю дня рождения в субботу.",
+          "en": "My birthday party is on Saturday.",
+          "words": [
+            "My",
+            "birthday",
+            "party",
+            "is",
+            "on",
+            "Saturday"
+          ]
+        },
+        {
+          "ru": "На торте десять свечей.",
+          "en": "There are ten candles on the cake.",
+          "words": [
+            "There",
+            "are",
+            "ten",
+            "candles",
+            "on",
+            "the",
+            "cake"
+          ]
+        },
+        {
+          "ru": "Мы приглашаем гостей на праздник.",
+          "en": "We invite our guests to the party.",
+          "words": [
+            "We",
+            "invite",
+            "our",
+            "guests",
+            "to",
+            "the",
+            "party"
+          ]
+        },
+        {
+          "ru": "Я дарю маме открытку и подарок.",
+          "en": "I give my mum a card and a present.",
+          "words": [
+            "I",
+            "give",
+            "my",
+            "mum",
+            "a",
+            "card",
+            "and",
+            "a",
+            "present"
+          ]
+        },
+        {
+          "ru": "На Новый год мы смотрим фейерверк.",
+          "en": "We watch fireworks at New Year.",
+          "words": [
+            "We",
+            "watch",
+            "fireworks",
+            "at",
+            "New",
+            "Year"
+          ]
+        },
+        {
+          "ru": "Карнавал — это старая традиция.",
+          "en": "The carnival is an old tradition.",
+          "words": [
+            "The",
+            "carnival",
+            "is",
+            "an",
+            "old",
+            "tradition"
+          ]
+        }
+      ],
+      "reading": [
+        "Christmas is my favourite holiday.",
+        "We decorate the house with balloons.",
+        "My birthday party is on Saturday.",
+        "There are ten candles on the cake.",
+        "We invite our guests to the party.",
+        "We watch fireworks at New Year.",
+        "The carnival is an old tradition in our town."
+      ]
+    },
+    {
+      "id": "5b",
+      "title": "5b. Let's celebrate",
+      "words": [
+        {
+          "en": "costume",
+          "transcription": "/ˈkɒstjuːm/",
+          "ru": "костюм"
+        },
+        {
+          "en": "mask",
+          "transcription": "/mɑːsk/",
+          "ru": "маска"
+        },
+        {
+          "en": "sweets",
+          "transcription": "/swiːts/",
+          "ru": "сладости, конфеты"
+        },
+        {
+          "en": "pumpkin",
+          "transcription": "/ˈpʌmpkɪn/",
+          "ru": "тыква"
+        },
+        {
+          "en": "turkey",
+          "transcription": "/ˈtɜːki/",
+          "ru": "индейка"
+        },
+        {
+          "en": "pudding",
+          "transcription": "/ˈpʊdɪŋ/",
+          "ru": "пудинг"
+        },
+        {
+          "en": "toast",
+          "transcription": "/təʊst/",
+          "ru": "тост"
+        },
+        {
+          "en": "wish",
+          "transcription": "/wɪʃ/",
+          "ru": "желать; желание"
+        },
+        {
+          "en": "congratulations",
+          "transcription": "/kənˌɡrætʃuˈleɪʃnz/",
+          "ru": "поздравления"
+        },
+        {
+          "en": "Christmas tree",
+          "transcription": "/ˈkrɪsməs triː/",
+          "ru": "рождественская ёлка"
+        },
+        {
+          "en": "barbecue",
+          "transcription": "/ˈbɑːbɪkjuː/",
+          "ru": "барбекю"
+        },
+        {
+          "en": "picnic",
+          "transcription": "/ˈpɪknɪk/",
+          "ru": "пикник"
+        },
+        {
+          "en": "blow out candles",
+          "transcription": "/bləʊ aʊt ˈkændlz/",
+          "ru": "задуть свечи"
+        },
+        {
+          "en": "make a wish",
+          "transcription": "/meɪk ə wɪʃ/",
+          "ru": "загадать желание"
+        },
+        {
+          "en": "cut the cake",
+          "transcription": "/kʌt ðə keɪk/",
+          "ru": "разрезать торт"
+        },
+        {
+          "en": "wrap a present",
+          "transcription": "/ræp ə ˈpreznt/",
+          "ru": "завернуть подарок"
+        },
+        {
+          "en": "blow up balloons",
+          "transcription": "/bləʊ ʌp bəˈluːnz/",
+          "ru": "надувать шарики"
+        },
+        {
+          "en": "invitation",
+          "transcription": "/ˌɪnvɪˈteɪʃn/",
+          "ru": "приглашение"
+        },
+        {
+          "en": "ribbon",
+          "transcription": "/ˈrɪbən/",
+          "ru": "лента"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Дети надевают костюмы на Хэллоуин.",
+          "en": "Children wear costumes at Halloween.",
+          "words": [
+            "Children",
+            "wear",
+            "costumes",
+            "at",
+            "Halloween"
+          ]
+        },
+        {
+          "ru": "На Рождество мы едим индейку и пудинг.",
+          "en": "We eat turkey and pudding at Christmas.",
+          "words": [
+            "We",
+            "eat",
+            "turkey",
+            "and",
+            "pudding",
+            "at",
+            "Christmas"
+          ]
+        },
+        {
+          "ru": "Я желаю тебе счастливого дня рождения и удачи.",
+          "en": "I wish you a happy birthday and good luck.",
+          "words": [
+            "I",
+            "wish",
+            "you",
+            "a",
+            "happy",
+            "birthday",
+            "and",
+            "good",
+            "luck"
+          ]
+        },
+        {
+          "ru": "На Пасху дети ищут шоколадные яйца и сладости.",
+          "en": "At Easter children look for chocolate eggs and sweets.",
+          "words": [
+            "At",
+            "Easter",
+            "children",
+            "look",
+            "for",
+            "chocolate",
+            "eggs",
+            "and",
+            "sweets"
+          ]
+        },
+        {
+          "ru": "Именинник задувает свечи и загадывает желание.",
+          "en": "The birthday child blows out candles and makes a wish.",
+          "words": [
+            "The",
+            "birthday",
+            "child",
+            "blows",
+            "out",
+            "candles",
+            "and",
+            "makes",
+            "a",
+            "wish"
+          ]
+        },
+        {
+          "ru": "Мама режет торт на кусочки.",
+          "en": "Mum cuts the cake into pieces.",
+          "words": [
+            "Mum",
+            "cuts",
+            "the",
+            "cake",
+            "into",
+            "pieces"
+          ]
+        },
+        {
+          "ru": "Я завернул подарок в красивую бумагу.",
+          "en": "I wrapped the present in beautiful paper.",
+          "words": [
+            "I",
+            "wrapped",
+            "the",
+            "present",
+            "in",
+            "beautiful",
+            "paper"
+          ]
+        },
+        {
+          "ru": "Мы надуваем шарики к празднику.",
+          "en": "We blow up balloons for the party.",
+          "words": [
+            "We",
+            "blow",
+            "up",
+            "balloons",
+            "for",
+            "the",
+            "party"
+          ]
+        },
+        {
+          "ru": "Она получила приглашение на свадьбу.",
+          "en": "She got an invitation to the wedding.",
+          "words": [
+            "She",
+            "got",
+            "an",
+            "invitation",
+            "to",
+            "the",
+            "wedding"
+          ]
+        }
+      ],
+      "reading": [
+        "Children wear costumes at Halloween.",
+        "We eat turkey and pudding at Christmas.",
+        "At Easter children look for chocolate eggs and sweets.",
+        "The birthday child blows out candles and makes a wish.",
+        "Mum cuts the cake into pieces for everyone.",
+        "I wrapped the present in beautiful paper with a ribbon.",
+        "We blow up balloons for the party.",
+        "She got an invitation to the wedding."
+      ]
+    },
+    {
+      "id": "5c",
+      "title": "5c. Cultural diversity",
+      "words": [
+        {
+          "en": "roast beef",
+          "transcription": "/rəʊst biːf/",
+          "ru": "ростбиф"
+        },
+        {
+          "en": "vegetables",
+          "transcription": "/ˈvedʒtəblz/",
+          "ru": "овощи"
+        },
+        {
+          "en": "dessert",
+          "transcription": "/dɪˈzɜːt/",
+          "ru": "десерт"
+        },
+        {
+          "en": "ice cream",
+          "transcription": "/ˌaɪs ˈkriːm/",
+          "ru": "мороженое"
+        },
+        {
+          "en": "chocolate",
+          "transcription": "/ˈtʃɒklət/",
+          "ru": "шоколад"
+        },
+        {
+          "en": "biscuits",
+          "transcription": "/ˈbɪskɪts/",
+          "ru": "печенье"
+        },
+        {
+          "en": "pie",
+          "transcription": "/paɪ/",
+          "ru": "пирог"
+        },
+        {
+          "en": "lemonade",
+          "transcription": "/ˌleməˈneɪd/",
+          "ru": "лимонад"
+        },
+        {
+          "en": "juice",
+          "transcription": "/dʒuːs/",
+          "ru": "сок"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Мы устраиваем барбекю в саду.",
+          "en": "We have a barbecue in the garden.",
+          "words": [
+            "We",
+            "have",
+            "a",
+            "barbecue",
+            "in",
+            "the",
+            "garden"
+          ]
+        },
+        {
+          "ru": "На пикник мы берём бутерброды и сок.",
+          "en": "We take sandwiches and juice for a picnic.",
+          "words": [
+            "We",
+            "take",
+            "sandwiches",
+            "and",
+            "juice",
+            "for",
+            "a",
+            "picnic"
+          ]
+        },
+        {
+          "ru": "На десерт — мороженое и шоколад.",
+          "en": "For dessert we have ice cream and chocolate.",
+          "words": [
+            "For",
+            "dessert",
+            "we",
+            "have",
+            "ice",
+            "cream",
+            "and",
+            "chocolate"
+          ]
+        },
+        {
+          "ru": "Дети любят печенье и пирог.",
+          "en": "Children like biscuits and pie.",
+          "words": [
+            "Children",
+            "like",
+            "biscuits",
+            "and",
+            "pie"
+          ]
+        },
+        {
+          "ru": "Лимонад и печенье — отличный перекус.",
+          "en": "Lemonade and biscuits are a great snack.",
+          "words": [
+            "Lemonade",
+            "and",
+            "biscuits",
+            "are",
+            "a",
+            "great",
+            "snack"
+          ]
+        }
+      ],
+      "reading": [
+        "We have a barbecue in the garden in summer.",
+        "We take sandwiches and juice for a picnic.",
+        "For dessert we have ice cream and chocolate.",
+        "Children like biscuits and a big pie.",
+        "Lemonade and biscuits are a great snack after the picnic."
+      ]
+    },
+    {
+      "id": "5d",
+      "title": "5d. Culture Corner",
+      "words": [
+        {
+          "en": "traditional",
+          "transcription": "/trəˈdɪʃənl/",
+          "ru": "традиционный"
+        },
+        {
+          "en": "festive",
+          "transcription": "/ˈfestɪv/",
+          "ru": "праздничный"
+        },
+        {
+          "en": "delicious",
+          "transcription": "/dɪˈlɪʃəs/",
+          "ru": "вкусный"
+        },
+        {
+          "en": "tasty",
+          "transcription": "/ˈteɪsti/",
+          "ru": "вкусный"
+        },
+        {
+          "en": "sweet",
+          "transcription": "/swiːt/",
+          "ru": "сладкий"
+        },
+        {
+          "en": "sour",
+          "transcription": "/saʊə/",
+          "ru": "кислый"
+        },
+        {
+          "en": "spicy",
+          "transcription": "/ˈspaɪsi/",
+          "ru": "острый"
+        },
+        {
+          "en": "Thanksgiving",
+          "transcription": "/ˌθæŋksˈɡɪvɪŋ/",
+          "ru": "День благодарения"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Традиционный рождественский ужин очень вкусный.",
+          "en": "The traditional Christmas dinner is very delicious.",
+          "words": [
+            "The",
+            "traditional",
+            "Christmas",
+            "dinner",
+            "is",
+            "very",
+            "delicious"
+          ]
+        },
+        {
+          "ru": "На День благодарения едят индейку и пирог.",
+          "en": "They eat turkey and pie at Thanksgiving.",
+          "words": [
+            "They",
+            "eat",
+            "turkey",
+            "and",
+            "pie",
+            "at",
+            "Thanksgiving"
+          ]
+        },
+        {
+          "ru": "Этот пирог сладкий и вкусный.",
+          "en": "This pie is sweet and tasty.",
+          "words": [
+            "This",
+            "pie",
+            "is",
+            "sweet",
+            "and",
+            "tasty"
+          ]
+        }
+      ],
+      "reading": [
+        "The traditional Christmas dinner is very delicious and tasty.",
+        "They eat turkey and pie at Thanksgiving.",
+        "This pie is sweet and tasty."
+      ]
+    }
+  ]
+}

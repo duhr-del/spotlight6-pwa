@@ -1,0 +1,64 @@
+{
+  "modules": [
+    {
+      "id": "module1",
+      "order": 1,
+      "title": "Who's who?",
+      "color": "#4A6FA5"
+    },
+    {
+      "id": "module2",
+      "order": 2,
+      "title": "Here we are!",
+      "color": "#6FA84A"
+    },
+    {
+      "id": "module3",
+      "order": 3,
+      "title": "Getting around",
+      "color": "#C0873E"
+    },
+    {
+      "id": "module4",
+      "order": 4,
+      "title": "Day after day",
+      "color": "#8A6FA8"
+    },
+    {
+      "id": "module5",
+      "order": 5,
+      "title": "Feasts",
+      "color": "#B2665F"
+    },
+    {
+      "id": "module6",
+      "order": 6,
+      "title": "Leisure activities",
+      "color": "#4E8C8A"
+    },
+    {
+      "id": "module7",
+      "order": 7,
+      "title": "Now and then",
+      "color": "#9A7B4F"
+    },
+    {
+      "id": "module8",
+      "order": 8,
+      "title": "Rules and regulations",
+      "color": "#6C7FA0"
+    },
+    {
+      "id": "module9",
+      "order": 9,
+      "title": "Food and Refreshments",
+      "color": "#D89B3F"
+    },
+    {
+      "id": "module10",
+      "order": 10,
+      "title": "Holiday Time",
+      "color": "#5B8C6A"
+    }
+  ]
+}

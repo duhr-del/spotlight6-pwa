@@ -1,0 +1,850 @@
+{
+  "id": "module9",
+  "title": "Модуль 9. Food and Refreshments",
+  "color": "#D89B3F",
+  "sections": [
+    {
+      "id": "9a",
+      "title": "9a. Food and Drink",
+      "words": [
+        {
+          "en": "bread",
+          "transcription": "/bred/",
+          "ru": "хлеб"
+        },
+        {
+          "en": "milk",
+          "transcription": "/mɪlk/",
+          "ru": "молоко"
+        },
+        {
+          "en": "water",
+          "transcription": "/ˈwɔːtə/",
+          "ru": "вода"
+        },
+        {
+          "en": "tea",
+          "transcription": "/tiː/",
+          "ru": "чай"
+        },
+        {
+          "en": "coffee",
+          "transcription": "/ˈkɒfi/",
+          "ru": "кофе"
+        },
+        {
+          "en": "juice",
+          "transcription": "/dʒuːs/",
+          "ru": "сок"
+        },
+        {
+          "en": "meat",
+          "transcription": "/miːt/",
+          "ru": "мясо"
+        },
+        {
+          "en": "fish",
+          "transcription": "/fɪʃ/",
+          "ru": "рыба"
+        },
+        {
+          "en": "chicken",
+          "transcription": "/ˈtʃɪkɪn/",
+          "ru": "курица"
+        },
+        {
+          "en": "cheese",
+          "transcription": "/tʃiːz/",
+          "ru": "сыр"
+        },
+        {
+          "en": "butter",
+          "transcription": "/ˈbʌtə/",
+          "ru": "масло"
+        },
+        {
+          "en": "egg",
+          "transcription": "/eɡ/",
+          "ru": "яйцо"
+        },
+        {
+          "en": "rice",
+          "transcription": "/raɪs/",
+          "ru": "рис"
+        },
+        {
+          "en": "soup",
+          "transcription": "/suːp/",
+          "ru": "суп"
+        },
+        {
+          "en": "salad",
+          "transcription": "/ˈsæləd/",
+          "ru": "салат"
+        },
+        {
+          "en": "potato",
+          "transcription": "/pəˈteɪtəʊ/",
+          "ru": "картофель"
+        },
+        {
+          "en": "tomato",
+          "transcription": "/təˈmɑːtəʊ/",
+          "ru": "помидор"
+        },
+        {
+          "en": "onion",
+          "transcription": "/ˈʌnjən/",
+          "ru": "лук"
+        },
+        {
+          "en": "apple",
+          "transcription": "/ˈæpl/",
+          "ru": "яблоко"
+        },
+        {
+          "en": "banana",
+          "transcription": "/bəˈnɑːnə/",
+          "ru": "банан"
+        },
+        {
+          "en": "orange",
+          "transcription": "/ˈɒrɪndʒ/",
+          "ru": "апельсин"
+        },
+        {
+          "en": "fruit",
+          "transcription": "/fruːt/",
+          "ru": "фрукт"
+        },
+        {
+          "en": "vegetable",
+          "transcription": "/ˈvedʒtəbl/",
+          "ru": "овощ"
+        },
+        {
+          "en": "sugar",
+          "transcription": "/ˈʃʊɡə/",
+          "ru": "сахар"
+        },
+        {
+          "en": "salt",
+          "transcription": "/sɔːlt/",
+          "ru": "соль"
+        },
+        {
+          "en": "pepper",
+          "transcription": "/ˈpepə/",
+          "ru": "перец"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Я люблю хлеб с маслом и сыром.",
+          "en": "I like bread with butter and cheese.",
+          "words": [
+            "I",
+            "like",
+            "bread",
+            "with",
+            "butter",
+            "and",
+            "cheese"
+          ]
+        },
+        {
+          "ru": "На завтрак я ем яйцо и пью чай.",
+          "en": "For breakfast I eat an egg and drink tea.",
+          "words": [
+            "For",
+            "breakfast",
+            "I",
+            "eat",
+            "an",
+            "egg",
+            "and",
+            "drink",
+            "tea"
+          ]
+        },
+        {
+          "ru": "Моя мама готовит суп из курицы и овощей.",
+          "en": "My mum makes soup with chicken and vegetables.",
+          "words": [
+            "My",
+            "mum",
+            "makes",
+            "soup",
+            "with",
+            "chicken",
+            "and",
+            "vegetables"
+          ]
+        },
+        {
+          "ru": "Я пью сок каждое утро.",
+          "en": "I drink juice every morning.",
+          "words": [
+            "I",
+            "drink",
+            "juice",
+            "every",
+            "morning"
+          ]
+        },
+        {
+          "ru": "Мы покупаем хлеб в булочной.",
+          "en": "We buy bread at the bakery.",
+          "words": [
+            "We",
+            "buy",
+            "bread",
+            "at",
+            "the",
+            "bakery"
+          ]
+        },
+        {
+          "ru": "Мой любимый фрукт — апельсин.",
+          "en": "My favourite fruit is the orange.",
+          "words": [
+            "My",
+            "favourite",
+            "fruit",
+            "is",
+            "the",
+            "orange"
+          ]
+        },
+        {
+          "ru": "В салате есть помидоры и лук.",
+          "en": "There are tomatoes and onions in the salad.",
+          "words": [
+            "There",
+            "are",
+            "tomatoes",
+            "and",
+            "onions",
+            "in",
+            "the",
+            "salad"
+          ]
+        },
+        {
+          "ru": "Картофель и рис — моя любимая еда.",
+          "en": "Potatoes and rice are my favourite food.",
+          "words": [
+            "Potatoes",
+            "and",
+            "rice",
+            "are",
+            "my",
+            "favourite",
+            "food"
+          ]
+        }
+      ],
+      "reading": [
+        "I like bread with butter and cheese.",
+        "For breakfast I eat an egg and drink tea.",
+        "My mum makes soup with chicken and vegetables.",
+        "I drink juice every morning.",
+        "We buy bread at the bakery.",
+        "My favourite fruit is the orange.",
+        "There are tomatoes and onions in the salad.",
+        "Potatoes and rice are my favourite food."
+      ]
+    },
+    {
+      "id": "9b",
+      "title": "9b. Containers",
+      "words": [
+        {
+          "en": "a carton of",
+          "transcription": "/ə ˈkɑːtn əv/",
+          "ru": "коробка (сока, молока)"
+        },
+        {
+          "en": "a bottle of",
+          "transcription": "/ə ˈbɒtl əv/",
+          "ru": "бутылка"
+        },
+        {
+          "en": "a can of",
+          "transcription": "/ə kæn əv/",
+          "ru": "банка, жестянка"
+        },
+        {
+          "en": "a jar of",
+          "transcription": "/ə dʒɑː əv/",
+          "ru": "банка (стеклянная)"
+        },
+        {
+          "en": "a packet of",
+          "transcription": "/ə ˈpækɪt əv/",
+          "ru": "пакет"
+        },
+        {
+          "en": "a tin of",
+          "transcription": "/ə tɪn əv/",
+          "ru": "консервная банка"
+        },
+        {
+          "en": "a loaf of",
+          "transcription": "/ə ləʊf əv/",
+          "ru": "буханка (хлеба)"
+        },
+        {
+          "en": "a bar of",
+          "transcription": "/ə bɑː əv/",
+          "ru": "плитка (шоколада)"
+        },
+        {
+          "en": "a kilo of",
+          "transcription": "/ə ˈkiːləʊ əv/",
+          "ru": "килограмм"
+        },
+        {
+          "en": "a litre of",
+          "transcription": "/ə ˈliːtə əv/",
+          "ru": "литр"
+        },
+        {
+          "en": "a slice of",
+          "transcription": "/ə slaɪs əv/",
+          "ru": "ломтик"
+        },
+        {
+          "en": "a piece of",
+          "transcription": "/ə piːs əv/",
+          "ru": "кусок"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Купи коробку молока и бутылку воды.",
+          "en": "Buy a carton of milk and a bottle of water.",
+          "words": [
+            "Buy",
+            "a",
+            "carton",
+            "of",
+            "milk",
+            "and",
+            "a",
+            "bottle",
+            "of",
+            "water"
+          ]
+        },
+        {
+          "ru": "Мне нужна банка варенья.",
+          "en": "I need a jar of jam.",
+          "words": [
+            "I",
+            "need",
+            "a",
+            "jar",
+            "of",
+            "jam"
+          ]
+        },
+        {
+          "ru": "Возьми пакет сахара и плитку шоколада.",
+          "en": "Take a packet of sugar and a bar of chocolate.",
+          "words": [
+            "Take",
+            "a",
+            "packet",
+            "of",
+            "sugar",
+            "and",
+            "a",
+            "bar",
+            "of",
+            "chocolate"
+          ]
+        },
+        {
+          "ru": "Купи буханку хлеба и килограмм яблок.",
+          "en": "Buy a loaf of bread and a kilo of apples.",
+          "words": [
+            "Buy",
+            "a",
+            "loaf",
+            "of",
+            "bread",
+            "and",
+            "a",
+            "kilo",
+            "of",
+            "apples"
+          ]
+        },
+        {
+          "ru": "Дай мне ломтик сыра.",
+          "en": "Give me a slice of cheese.",
+          "words": [
+            "Give",
+            "me",
+            "a",
+            "slice",
+            "of",
+            "cheese"
+          ]
+        },
+        {
+          "ru": "Я выпил литр сока.",
+          "en": "I drank a litre of juice.",
+          "words": [
+            "I",
+            "drank",
+            "a",
+            "litre",
+            "of",
+            "juice"
+          ]
+        },
+        {
+          "ru": "Открой банку тунца.",
+          "en": "Open a tin of tuna.",
+          "words": [
+            "Open",
+            "a",
+            "tin",
+            "of",
+            "tuna"
+          ]
+        }
+      ],
+      "reading": [
+        "Buy a carton of milk and a bottle of water.",
+        "I need a jar of jam and a packet of sugar.",
+        "Take a bar of chocolate and a loaf of bread.",
+        "Buy a kilo of apples and a litre of juice.",
+        "Give me a slice of cheese and a piece of cake.",
+        "Open a tin of tuna for the salad."
+      ]
+    },
+    {
+      "id": "9c",
+      "title": "9c. Let's cook",
+      "words": [
+        {
+          "en": "cook",
+          "transcription": "/kʊk/",
+          "ru": "готовить, повар"
+        },
+        {
+          "en": "boil",
+          "transcription": "/bɔɪl/",
+          "ru": "варить, кипятить"
+        },
+        {
+          "en": "fry",
+          "transcription": "/fraɪ/",
+          "ru": "жарить"
+        },
+        {
+          "en": "bake",
+          "transcription": "/beɪk/",
+          "ru": "печь, выпекать"
+        },
+        {
+          "en": "mix",
+          "transcription": "/mɪks/",
+          "ru": "смешивать"
+        },
+        {
+          "en": "cut",
+          "transcription": "/kʌt/",
+          "ru": "резать"
+        },
+        {
+          "en": "peel",
+          "transcription": "/piːl/",
+          "ru": "чистить (овощи, фрукты)"
+        },
+        {
+          "en": "add",
+          "transcription": "/æd/",
+          "ru": "добавлять"
+        },
+        {
+          "en": "pour",
+          "transcription": "/pɔː/",
+          "ru": "наливать"
+        },
+        {
+          "en": "stir",
+          "transcription": "/stɜː/",
+          "ru": "помешивать"
+        },
+        {
+          "en": "taste",
+          "transcription": "/teɪst/",
+          "ru": "пробовать на вкус"
+        },
+        {
+          "en": "delicious",
+          "transcription": "/dɪˈlɪʃəs/",
+          "ru": "вкусный"
+        },
+        {
+          "en": "spicy",
+          "transcription": "/ˈspaɪsi/",
+          "ru": "острый"
+        },
+        {
+          "en": "sour",
+          "transcription": "/saʊə/",
+          "ru": "кислый"
+        },
+        {
+          "en": "sweet",
+          "transcription": "/swiːt/",
+          "ru": "сладкий"
+        },
+        {
+          "en": "salty",
+          "transcription": "/ˈsɔːlti/",
+          "ru": "солёный"
+        },
+        {
+          "en": "tasty",
+          "transcription": "/ˈteɪsti/",
+          "ru": "вкусный"
+        },
+        {
+          "en": "menu",
+          "transcription": "/ˈmenjuː/",
+          "ru": "меню"
+        },
+        {
+          "en": "order",
+          "transcription": "/ˈɔːdə/",
+          "ru": "заказ"
+        },
+        {
+          "en": "fork",
+          "transcription": "/fɔːk/",
+          "ru": "вилка"
+        },
+        {
+          "en": "knife",
+          "transcription": "/naɪf/",
+          "ru": "нож"
+        },
+        {
+          "en": "spoon",
+          "transcription": "/spuːn/",
+          "ru": "ложка"
+        },
+        {
+          "en": "plate",
+          "transcription": "/pleɪt/",
+          "ru": "тарелка"
+        },
+        {
+          "en": "glass",
+          "transcription": "/ɡlɑːs/",
+          "ru": "стакан"
+        },
+        {
+          "en": "cup",
+          "transcription": "/kʌp/",
+          "ru": "чашка"
+        },
+        {
+          "en": "meal",
+          "transcription": "/miːl/",
+          "ru": "приём пищи"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Мама варит суп и жарит картошку.",
+          "en": "Mum boils soup and fries potatoes.",
+          "words": [
+            "Mum",
+            "boils",
+            "soup",
+            "and",
+            "fries",
+            "potatoes"
+          ]
+        },
+        {
+          "ru": "Я пеку торт к дню рождения.",
+          "en": "I bake a cake for my birthday.",
+          "words": [
+            "I",
+            "bake",
+            "a",
+            "cake",
+            "for",
+            "my",
+            "birthday"
+          ]
+        },
+        {
+          "ru": "Помешай суп и добавь соль.",
+          "en": "Stir the soup and add some salt.",
+          "words": [
+            "Stir",
+            "the",
+            "soup",
+            "and",
+            "add",
+            "some",
+            "salt"
+          ]
+        },
+        {
+          "ru": "Почисти и порежь лук.",
+          "en": "Peel and cut the onion.",
+          "words": [
+            "Peel",
+            "and",
+            "cut",
+            "the",
+            "onion"
+          ]
+        },
+        {
+          "ru": "Налей мне стакан воды.",
+          "en": "Pour me a glass of water.",
+          "words": [
+            "Pour",
+            "me",
+            "a",
+            "glass",
+            "of",
+            "water"
+          ]
+        },
+        {
+          "ru": "Попробуй этот вкусный пирог.",
+          "en": "Taste this delicious pie.",
+          "words": [
+            "Taste",
+            "this",
+            "delicious",
+            "pie"
+          ]
+        },
+        {
+          "ru": "Это блюдо слишком острое.",
+          "en": "This dish is too spicy.",
+          "words": [
+            "This",
+            "dish",
+            "is",
+            "too",
+            "spicy"
+          ]
+        },
+        {
+          "ru": "Лимон кислый, а сахар сладкий.",
+          "en": "A lemon is sour and sugar is sweet.",
+          "words": [
+            "A",
+            "lemon",
+            "is",
+            "sour",
+            "and",
+            "sugar",
+            "is",
+            "sweet"
+          ]
+        }
+      ],
+      "reading": [
+        "Mum boils soup and fries potatoes.",
+        "I bake a cake for my birthday.",
+        "Stir the soup and add some salt.",
+        "Peel and cut the onion for the salad.",
+        "Pour me a glass of water, please.",
+        "Taste this delicious pie, it is very tasty.",
+        "This dish is too spicy for me.",
+        "A lemon is sour and sugar is sweet."
+      ]
+    },
+    {
+      "id": "9d",
+      "title": "9d. Places to eat",
+      "words": [
+        {
+          "en": "restaurant",
+          "transcription": "/ˈrestrɒnt/",
+          "ru": "ресторан"
+        },
+        {
+          "en": "café",
+          "transcription": "/ˈkæfeɪ/",
+          "ru": "кафе"
+        },
+        {
+          "en": "canteen",
+          "transcription": "/kænˈtiːn/",
+          "ru": "столовая"
+        },
+        {
+          "en": "fast food",
+          "transcription": "/ˌfɑːst ˈfuːd/",
+          "ru": "быстрое питание"
+        },
+        {
+          "en": "takeaway",
+          "transcription": "/ˈteɪkəweɪ/",
+          "ru": "еда на вынос"
+        },
+        {
+          "en": "pub",
+          "transcription": "/pʌb/",
+          "ru": "паб"
+        },
+        {
+          "en": "pizzeria",
+          "transcription": "/ˌpiːtsəˈriːə/",
+          "ru": "пиццерия"
+        },
+        {
+          "en": "chef",
+          "transcription": "/ʃef/",
+          "ru": "шеф-повар"
+        },
+        {
+          "en": "customer",
+          "transcription": "/ˈkʌstəmə/",
+          "ru": "посетитель, клиент"
+        },
+        {
+          "en": "service",
+          "transcription": "/ˈsɜːvɪs/",
+          "ru": "обслуживание"
+        },
+        {
+          "en": "tip",
+          "transcription": "/tɪp/",
+          "ru": "чаевые"
+        },
+        {
+          "en": "recommend",
+          "transcription": "/ˌrekəˈmend/",
+          "ru": "рекомендовать"
+        },
+        {
+          "en": "traditional dish",
+          "transcription": "/trəˈdɪʃənl dɪʃ/",
+          "ru": "традиционное блюдо"
+        },
+        {
+          "en": "local food",
+          "transcription": "/ˈləʊkl fuːd/",
+          "ru": "местная еда"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Мы обедаем в школьной столовой.",
+          "en": "We have lunch in the school canteen.",
+          "words": [
+            "We",
+            "have",
+            "lunch",
+            "in",
+            "the",
+            "school",
+            "canteen"
+          ]
+        },
+        {
+          "ru": "По воскресеньям мы ходим в ресторан.",
+          "en": "On Sundays we go to a restaurant.",
+          "words": [
+            "On",
+            "Sundays",
+            "we",
+            "go",
+            "to",
+            "a",
+            "restaurant"
+          ]
+        },
+        {
+          "ru": "Официант приносит меню и принимает заказ.",
+          "en": "The waiter brings the menu and takes the order.",
+          "words": [
+            "The",
+            "waiter",
+            "brings",
+            "the",
+            "menu",
+            "and",
+            "takes",
+            "the",
+            "order"
+          ]
+        },
+        {
+          "ru": "Я люблю пиццу из пиццерии.",
+          "en": "I like pizza from the pizzeria.",
+          "words": [
+            "I",
+            "like",
+            "pizza",
+            "from",
+            "the",
+            "pizzeria"
+          ]
+        },
+        {
+          "ru": "Шеф-повар рекомендует традиционное блюдо.",
+          "en": "The chef recommends a traditional dish.",
+          "words": [
+            "The",
+            "chef",
+            "recommends",
+            "a",
+            "traditional",
+            "dish"
+          ]
+        },
+        {
+          "ru": "Фастфуд — это быстро, но не очень полезно.",
+          "en": "Fast food is quick but not very healthy.",
+          "words": [
+            "Fast",
+            "food",
+            "is",
+            "quick",
+            "but",
+            "not",
+            "very",
+            "healthy"
+          ]
+        },
+        {
+          "ru": "Мы заказали еду на вынос.",
+          "en": "We ordered some takeaway.",
+          "words": [
+            "We",
+            "ordered",
+            "some",
+            "takeaway"
+          ]
+        }
+      ],
+      "reading": [
+        "We have lunch in the school canteen.",
+        "On Sundays we go to a restaurant.",
+        "The waiter brings the menu and takes the order.",
+        "I like pizza from the pizzeria.",
+        "The chef recommends a traditional dish.",
+        "Fast food is quick but not very healthy.",
+        "We ordered some takeaway from the café."
+      ]
+    }
+  ]
+}

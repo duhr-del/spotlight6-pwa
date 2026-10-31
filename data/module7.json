@@ -1,0 +1,703 @@
+{
+  "id": "module7",
+  "title": "Модуль 7. Now and then",
+  "color": "#9A7B4F",
+  "sections": [
+    {
+      "id": "7a",
+      "title": "7a. In the past",
+      "words": [
+        {
+          "en": "past",
+          "transcription": "/pɑːst/",
+          "ru": "прошлое"
+        },
+        {
+          "en": "century",
+          "transcription": "/ˈsentʃəri/",
+          "ru": "век, столетие"
+        },
+        {
+          "en": "ancient",
+          "transcription": "/ˈeɪnʃənt/",
+          "ru": "древний"
+        },
+        {
+          "en": "castle",
+          "transcription": "/ˈkɑːsl/",
+          "ru": "замок"
+        },
+        {
+          "en": "palace",
+          "transcription": "/ˈpæləs/",
+          "ru": "дворец"
+        },
+        {
+          "en": "knight",
+          "transcription": "/naɪt/",
+          "ru": "рыцарь"
+        },
+        {
+          "en": "king",
+          "transcription": "/kɪŋ/",
+          "ru": "король"
+        },
+        {
+          "en": "queen",
+          "transcription": "/kwiːn/",
+          "ru": "королева"
+        },
+        {
+          "en": "prince",
+          "transcription": "/prɪns/",
+          "ru": "принц"
+        },
+        {
+          "en": "princess",
+          "transcription": "/ˌprɪnˈses/",
+          "ru": "принцесса"
+        },
+        {
+          "en": "pyramid",
+          "transcription": "/ˈpɪrəmɪd/",
+          "ru": "пирамида"
+        },
+        {
+          "en": "museum",
+          "transcription": "/mjuˈziːəm/",
+          "ru": "музей"
+        },
+        {
+          "en": "monument",
+          "transcription": "/ˈmɒnjumənt/",
+          "ru": "памятник"
+        },
+        {
+          "en": "sculpture",
+          "transcription": "/ˈskʌlptʃə/",
+          "ru": "скульптура"
+        },
+        {
+          "en": "Roman",
+          "transcription": "/ˈrəʊmən/",
+          "ru": "древнеримский"
+        },
+        {
+          "en": "Egyptian",
+          "transcription": "/ɪˈdʒɪpʃn/",
+          "ru": "древнеегипетский"
+        },
+        {
+          "en": "Greek",
+          "transcription": "/ɡriːk/",
+          "ru": "древнегреческий"
+        },
+        {
+          "en": "Viking",
+          "transcription": "/ˈvaɪkɪŋ/",
+          "ru": "викинг"
+        },
+        {
+          "en": "medieval",
+          "transcription": "/ˌmediˈiːvl/",
+          "ru": "средневековый"
+        },
+        {
+          "en": "history",
+          "transcription": "/ˈhɪstri/",
+          "ru": "история"
+        },
+        {
+          "en": "historical",
+          "transcription": "/hɪˈstɒrɪkl/",
+          "ru": "исторический"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Вчера я был в музее.",
+          "en": "I was at the museum yesterday.",
+          "words": [
+            "I",
+            "was",
+            "at",
+            "the",
+            "museum",
+            "yesterday"
+          ]
+        },
+        {
+          "ru": "Замок был древним и красивым.",
+          "en": "The castle was ancient and beautiful.",
+          "words": [
+            "The",
+            "castle",
+            "was",
+            "ancient",
+            "and",
+            "beautiful"
+          ]
+        },
+        {
+          "ru": "Рыцари были смелыми и сильными.",
+          "en": "The knights were brave and strong.",
+          "words": [
+            "The",
+            "knights",
+            "were",
+            "brave",
+            "and",
+            "strong"
+          ]
+        },
+        {
+          "ru": "В прошлом году мы посетили музей истории.",
+          "en": "We visited a history museum last year.",
+          "words": [
+            "We",
+            "visited",
+            "a",
+            "history",
+            "museum",
+            "last",
+            "year"
+          ]
+        },
+        {
+          "ru": "Мой дедушка рассказал мне о прошлом.",
+          "en": "My grandfather told me about the past.",
+          "words": [
+            "My",
+            "grandfather",
+            "told",
+            "me",
+            "about",
+            "the",
+            "past"
+          ]
+        },
+        {
+          "ru": "Они обнаружили древнюю пирамиду давным-давно.",
+          "en": "They discovered an ancient pyramid long ago.",
+          "words": [
+            "They",
+            "discovered",
+            "an",
+            "ancient",
+            "pyramid",
+            "long",
+            "ago"
+          ]
+        },
+        {
+          "ru": "Этому памятнику сто лет.",
+          "en": "This monument is a hundred years old.",
+          "words": [
+            "This",
+            "monument",
+            "is",
+            "a",
+            "hundred",
+            "years",
+            "old"
+          ]
+        },
+        {
+          "ru": "Римские воины носили доспехи и щиты.",
+          "en": "Roman warriors wore armour and shields.",
+          "words": [
+            "Roman",
+            "warriors",
+            "wore",
+            "armour",
+            "and",
+            "shields"
+          ]
+        }
+      ],
+      "reading": [
+        "I was at the museum yesterday.",
+        "The castle was ancient and beautiful.",
+        "The knights were brave and strong.",
+        "We visited a history museum last year.",
+        "They discovered an ancient pyramid long ago.",
+        "This monument is a hundred years old.",
+        "Roman warriors wore armour and shields.",
+        "A medieval castle is a strong fortress."
+      ]
+    },
+    {
+      "id": "7b",
+      "title": "7b. Famous people",
+      "words": [
+        {
+          "en": "inventor",
+          "transcription": "/ɪnˈventə/",
+          "ru": "изобретатель"
+        },
+        {
+          "en": "invention",
+          "transcription": "/ɪnˈvenʃn/",
+          "ru": "изобретение"
+        },
+        {
+          "en": "discover",
+          "transcription": "/dɪˈskʌvə/",
+          "ru": "открывать, обнаруживать"
+        },
+        {
+          "en": "explorer",
+          "transcription": "/ɪkˈsplɔːrə/",
+          "ru": "исследователь, путешественник"
+        },
+        {
+          "en": "scientist",
+          "transcription": "/ˈsaɪəntɪst/",
+          "ru": "учёный"
+        },
+        {
+          "en": "wheel",
+          "transcription": "/wiːl/",
+          "ru": "колесо"
+        },
+        {
+          "en": "emperor",
+          "transcription": "/ˈempərə/",
+          "ru": "император"
+        },
+        {
+          "en": "warrior",
+          "transcription": "/ˈwɒriə/",
+          "ru": "воин"
+        },
+        {
+          "en": "be born",
+          "transcription": "/bi ˈbɔːn/",
+          "ru": "родиться"
+        },
+        {
+          "en": "become famous",
+          "transcription": "/bɪˌkʌm ˈfeɪməs/",
+          "ru": "стать знаменитым"
+        },
+        {
+          "en": "legendary",
+          "transcription": "/ˈledʒəndəri/",
+          "ru": "легендарный"
+        },
+        {
+          "en": "heroic",
+          "transcription": "/həˈrəʊɪk/",
+          "ru": "героический"
+        },
+        {
+          "en": "wise",
+          "transcription": "/waɪz/",
+          "ru": "мудрый"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Колесо было великим изобретением.",
+          "en": "The wheel was a great invention.",
+          "words": [
+            "The",
+            "wheel",
+            "was",
+            "a",
+            "great",
+            "invention"
+          ]
+        },
+        {
+          "ru": "Король и королева жили в этом дворце.",
+          "en": "The king and the queen lived in this palace.",
+          "words": [
+            "The",
+            "king",
+            "and",
+            "the",
+            "queen",
+            "lived",
+            "in",
+            "this",
+            "palace"
+          ]
+        },
+        {
+          "ru": "Мы слушали рассказ об известном изобретателе.",
+          "en": "We listened to a story about a famous inventor.",
+          "words": [
+            "We",
+            "listened",
+            "to",
+            "a",
+            "story",
+            "about",
+            "a",
+            "famous",
+            "inventor"
+          ]
+        },
+        {
+          "ru": "Однажды я хочу стать знаменитым путешественником.",
+          "en": "I want to become a famous explorer one day.",
+          "words": [
+            "I",
+            "want",
+            "to",
+            "become",
+            "a",
+            "famous",
+            "explorer",
+            "one",
+            "day"
+          ]
+        },
+        {
+          "ru": "Известный изобретатель родился в маленьком городе.",
+          "en": "The famous inventor was born in a small town.",
+          "words": [
+            "The",
+            "famous",
+            "inventor",
+            "was",
+            "born",
+            "in",
+            "a",
+            "small",
+            "town"
+          ]
+        },
+        {
+          "ru": "Легендарный король был мудрым и героическим.",
+          "en": "The legendary king was wise and heroic.",
+          "words": [
+            "The",
+            "legendary",
+            "king",
+            "was",
+            "wise",
+            "and",
+            "heroic"
+          ]
+        },
+        {
+          "ru": "Император завоёвывал новые земли.",
+          "en": "The emperor conquered new lands.",
+          "words": [
+            "The",
+            "emperor",
+            "conquered",
+            "new",
+            "lands"
+          ]
+        }
+      ],
+      "reading": [
+        "The wheel was a great invention long ago.",
+        "The king and the queen lived in this palace.",
+        "We listened to a story about a famous inventor.",
+        "The famous inventor was born in a small town.",
+        "The inventor became famous many years ago.",
+        "The legendary king was wise and heroic.",
+        "The emperor conquered new lands long ago."
+      ]
+    },
+    {
+      "id": "7c",
+      "title": "7c. Cultural diversity",
+      "words": [
+        {
+          "en": "cathedral",
+          "transcription": "/kəˈθiːdrəl/",
+          "ru": "собор"
+        },
+        {
+          "en": "church",
+          "transcription": "/tʃɜːtʃ/",
+          "ru": "церковь"
+        },
+        {
+          "en": "temple",
+          "transcription": "/ˈtempl/",
+          "ru": "храм"
+        },
+        {
+          "en": "tower",
+          "transcription": "/ˈtaʊə/",
+          "ru": "башня"
+        },
+        {
+          "en": "fortress",
+          "transcription": "/ˈfɔːtrəs/",
+          "ru": "крепость"
+        },
+        {
+          "en": "ruins",
+          "transcription": "/ˈruːɪnz/",
+          "ru": "руины"
+        },
+        {
+          "en": "tomb",
+          "transcription": "/tuːm/",
+          "ru": "гробница"
+        },
+        {
+          "en": "ago",
+          "transcription": "/əˈɡəʊ/",
+          "ru": "тому назад",
+          "noSpeak": true
+        },
+        {
+          "en": "last year",
+          "transcription": "/ˌlɑːst ˈjɪə/",
+          "ru": "в прошлом году"
+        },
+        {
+          "en": "last summer",
+          "transcription": "/ˌlɑːst ˈsʌmə/",
+          "ru": "прошлым летом"
+        },
+        {
+          "en": "yesterday",
+          "transcription": "/ˈjestədeɪ/",
+          "ru": "вчера"
+        },
+        {
+          "en": "then",
+          "transcription": "/ðen/",
+          "ru": "тогда",
+          "noSpeak": true
+        },
+        {
+          "en": "now",
+          "transcription": "/naʊ/",
+          "ru": "сейчас, теперь",
+          "noSpeak": true
+        },
+        {
+          "en": "long ago",
+          "transcription": "/ˌlɒŋ əˈɡəʊ/",
+          "ru": "давным-давно"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Люди жили в этом городе много веков назад.",
+          "en": "People lived in this town many centuries ago.",
+          "words": [
+            "People",
+            "lived",
+            "in",
+            "this",
+            "town",
+            "many",
+            "centuries",
+            "ago"
+          ]
+        },
+        {
+          "ru": "Египетские пирамиды — древние гробницы.",
+          "en": "The Egyptian pyramids are ancient tombs.",
+          "words": [
+            "The",
+            "Egyptian",
+            "pyramids",
+            "are",
+            "ancient",
+            "tombs"
+          ]
+        },
+        {
+          "ru": "Собор выше церкви.",
+          "en": "The cathedral is taller than the church.",
+          "words": [
+            "The",
+            "cathedral",
+            "is",
+            "taller",
+            "than",
+            "the",
+            "church"
+          ]
+        },
+        {
+          "ru": "В руинах нашли золото и серебро.",
+          "en": "They found gold and silver in the ruins.",
+          "words": [
+            "They",
+            "found",
+            "gold",
+            "and",
+            "silver",
+            "in",
+            "the",
+            "ruins"
+          ]
+        },
+        {
+          "ru": "Воины защищали крепость от врагов.",
+          "en": "The warriors defended the fortress.",
+          "words": [
+            "The",
+            "warriors",
+            "defended",
+            "the",
+            "fortress"
+          ]
+        },
+        {
+          "ru": "После войны город отстроили заново.",
+          "en": "After the war they rebuilt the city.",
+          "words": [
+            "After",
+            "the",
+            "war",
+            "they",
+            "rebuilt",
+            "the",
+            "city"
+          ]
+        }
+      ],
+      "reading": [
+        "People lived in this town many centuries ago.",
+        "The Egyptian pyramids are ancient tombs of kings.",
+        "The cathedral is taller than the church next to it.",
+        "They found gold and silver in the ruins of the temple.",
+        "The warriors defended the fortress from the enemy.",
+        "After the war they rebuilt the city and the castle."
+      ]
+    },
+    {
+      "id": "7d",
+      "title": "7d. Culture Corner",
+      "words": [
+        {
+          "en": "sword",
+          "transcription": "/sɔːd/",
+          "ru": "меч"
+        },
+        {
+          "en": "shield",
+          "transcription": "/ʃiːld/",
+          "ru": "щит"
+        },
+        {
+          "en": "armour",
+          "transcription": "/ˈɑːmə/",
+          "ru": "доспехи"
+        },
+        {
+          "en": "crown",
+          "transcription": "/kraʊn/",
+          "ru": "корона"
+        },
+        {
+          "en": "throne",
+          "transcription": "/θrəʊn/",
+          "ru": "трон"
+        },
+        {
+          "en": "treasure",
+          "transcription": "/ˈtreʒə/",
+          "ru": "сокровище"
+        },
+        {
+          "en": "gold",
+          "transcription": "/ɡəʊld/",
+          "ru": "золото"
+        },
+        {
+          "en": "silver",
+          "transcription": "/ˈsɪlvə/",
+          "ru": "серебро"
+        },
+        {
+          "en": "conquer",
+          "transcription": "/ˈkɒŋkə/",
+          "ru": "завоёвывать"
+        },
+        {
+          "en": "defend",
+          "transcription": "/dɪˈfend/",
+          "ru": "защищать"
+        },
+        {
+          "en": "rebuild",
+          "transcription": "/ˌriːˈbɪld/",
+          "ru": "отстраивать заново"
+        },
+        {
+          "en": "decade",
+          "transcription": "/ˈdekeɪd/",
+          "ru": "десятилетие"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Воин поднял меч и щит.",
+          "en": "The warrior lifted his sword and shield.",
+          "words": [
+            "The",
+            "warrior",
+            "lifted",
+            "his",
+            "sword",
+            "and",
+            "shield"
+          ]
+        },
+        {
+          "ru": "Король сидел на троне с короной.",
+          "en": "The king sat on the throne with a crown.",
+          "words": [
+            "The",
+            "king",
+            "sat",
+            "on",
+            "the",
+            "throne",
+            "with",
+            "a",
+            "crown"
+          ]
+        },
+        {
+          "ru": "Викинги приплывали на больших кораблях.",
+          "en": "The Vikings sailed in big ships.",
+          "words": [
+            "The",
+            "Vikings",
+            "sailed",
+            "in",
+            "big",
+            "ships"
+          ]
+        },
+        {
+          "ru": "В руинах нашли сокровище — золото и серебро.",
+          "en": "They found treasure in the ruins: gold and silver.",
+          "words": [
+            "They",
+            "found",
+            "treasure",
+            "in",
+            "the",
+            "ruins:",
+            "gold",
+            "and",
+            "silver"
+          ]
+        }
+      ],
+      "reading": [
+        "The warrior lifted his sword and shield in the battle.",
+        "The king sat on the throne with a gold crown.",
+        "The Vikings sailed in big ships many centuries ago.",
+        "They found gold and silver in the ruins of the temple."
+      ]
+    }
+  ]
+}

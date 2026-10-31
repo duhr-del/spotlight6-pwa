@@ -1,0 +1,720 @@
+{
+  "id": "module6",
+  "title": "Модуль 6. Leisure activities",
+  "color": "#4E8C8A",
+  "sections": [
+    {
+      "id": "6a",
+      "title": "6a. Free time",
+      "words": [
+        {
+          "en": "hobby",
+          "transcription": "/ˈhɒbi/",
+          "ru": "хобби, увлечение"
+        },
+        {
+          "en": "free time",
+          "transcription": "/ˌfriː ˈtaɪm/",
+          "ru": "свободное время"
+        },
+        {
+          "en": "collect",
+          "transcription": "/kəˈlekt/",
+          "ru": "коллекционировать"
+        },
+        {
+          "en": "stamp",
+          "transcription": "/stæmp/",
+          "ru": "марка"
+        },
+        {
+          "en": "coin",
+          "transcription": "/kɔɪn/",
+          "ru": "монета"
+        },
+        {
+          "en": "badge",
+          "transcription": "/bædʒ/",
+          "ru": "значок"
+        },
+        {
+          "en": "draw",
+          "transcription": "/drɔː/",
+          "ru": "рисовать (карандашом)"
+        },
+        {
+          "en": "paint",
+          "transcription": "/peɪnt/",
+          "ru": "рисовать красками"
+        },
+        {
+          "en": "read books",
+          "transcription": "/riːd bʊks/",
+          "ru": "читать книги"
+        },
+        {
+          "en": "listen to music",
+          "transcription": "/ˈlɪsn tə ˈmjuːzɪk/",
+          "ru": "слушать музыку"
+        },
+        {
+          "en": "surf the internet",
+          "transcription": "/sɜːf ði ˈɪntənet/",
+          "ru": "искать в интернете"
+        },
+        {
+          "en": "do a puzzle",
+          "transcription": "/duː ə ˈpʌzl/",
+          "ru": "собирать пазл"
+        },
+        {
+          "en": "knit",
+          "transcription": "/nɪt/",
+          "ru": "вязать"
+        },
+        {
+          "en": "photography",
+          "transcription": "/fəˈtɒɡrəfi/",
+          "ru": "фотография (занятие)"
+        },
+        {
+          "en": "postcards",
+          "transcription": "/ˈpəʊstkɑːdz/",
+          "ru": "открытки"
+        },
+        {
+          "en": "stickers",
+          "transcription": "/ˈstɪkəz/",
+          "ru": "наклейки"
+        },
+        {
+          "en": "sew",
+          "transcription": "/səʊ/",
+          "ru": "шить"
+        },
+        {
+          "en": "pottery",
+          "transcription": "/ˈpɒtəri/",
+          "ru": "керамика, лепка из глины"
+        },
+        {
+          "en": "origami",
+          "transcription": "/ˌɒrɪˈɡɑːmi/",
+          "ru": "оригами"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Моё любимое хобби — фотография.",
+          "en": "My favourite hobby is photography.",
+          "words": [
+            "My",
+            "favourite",
+            "hobby",
+            "is",
+            "photography"
+          ]
+        },
+        {
+          "ru": "Я коллекционирую марки и монеты.",
+          "en": "I collect stamps and coins.",
+          "words": [
+            "I",
+            "collect",
+            "stamps",
+            "and",
+            "coins"
+          ]
+        },
+        {
+          "ru": "В свободное время я рисую.",
+          "en": "In my free time I draw.",
+          "words": [
+            "In",
+            "my",
+            "free",
+            "time",
+            "I",
+            "draw"
+          ]
+        },
+        {
+          "ru": "Она слушает музыку каждый вечер.",
+          "en": "She listens to music every evening.",
+          "words": [
+            "She",
+            "listens",
+            "to",
+            "music",
+            "every",
+            "evening"
+          ]
+        },
+        {
+          "ru": "Я коллекционирую открытки и наклейки.",
+          "en": "I collect postcards and stickers.",
+          "words": [
+            "I",
+            "collect",
+            "postcards",
+            "and",
+            "stickers"
+          ]
+        },
+        {
+          "ru": "Мой друг умеет шить и лепить из глины.",
+          "en": "My friend can sew and make pottery.",
+          "words": [
+            "My",
+            "friend",
+            "can",
+            "sew",
+            "and",
+            "make",
+            "pottery"
+          ]
+        },
+        {
+          "ru": "Рисование — это творческое хобби.",
+          "en": "Drawing is a creative hobby.",
+          "words": [
+            "Drawing",
+            "is",
+            "a",
+            "creative",
+            "hobby"
+          ]
+        }
+      ],
+      "reading": [
+        "My favourite hobby is photography.",
+        "I collect stamps and coins.",
+        "In my free time I draw and paint.",
+        "She listens to music every evening.",
+        "I collect postcards and stickers from different countries.",
+        "My friend can sew and make pottery.",
+        "Drawing is a creative and relaxing hobby."
+      ]
+    },
+    {
+      "id": "6b",
+      "title": "6b. Game on",
+      "words": [
+        {
+          "en": "play chess",
+          "transcription": "/pleɪ ˈtʃes/",
+          "ru": "играть в шахматы"
+        },
+        {
+          "en": "play the guitar",
+          "transcription": "/pleɪ ðə ɡɪˈtɑː/",
+          "ru": "играть на гитаре"
+        },
+        {
+          "en": "play the piano",
+          "transcription": "/pleɪ ðə piˈænəʊ/",
+          "ru": "играть на пианино"
+        },
+        {
+          "en": "play tennis",
+          "transcription": "/pleɪ ˈtenɪs/",
+          "ru": "играть в теннис"
+        },
+        {
+          "en": "play football",
+          "transcription": "/pleɪ ˈfʊtbɔːl/",
+          "ru": "играть в футбол"
+        },
+        {
+          "en": "play basketball",
+          "transcription": "/pleɪ ˈbɑːskɪtbɔːl/",
+          "ru": "играть в баскетбол"
+        },
+        {
+          "en": "play the violin",
+          "transcription": "/pleɪ ðə ˌvaɪəˈlɪn/",
+          "ru": "играть на скрипке"
+        },
+        {
+          "en": "play the drums",
+          "transcription": "/pleɪ ðə drʌmz/",
+          "ru": "играть на барабанах"
+        },
+        {
+          "en": "skateboard",
+          "transcription": "/ˈskeɪtbɔːd/",
+          "ru": "кататься на скейтборде"
+        },
+        {
+          "en": "rollerblade",
+          "transcription": "/ˈrəʊləbleɪd/",
+          "ru": "кататься на роликах"
+        },
+        {
+          "en": "go fishing",
+          "transcription": "/ɡəʊ ˈfɪʃɪŋ/",
+          "ru": "ходить на рыбалку"
+        },
+        {
+          "en": "go camping",
+          "transcription": "/ɡəʊ ˈkæmpɪŋ/",
+          "ru": "ходить в поход с палаткой"
+        },
+        {
+          "en": "go hiking",
+          "transcription": "/ɡəʊ ˈhaɪkɪŋ/",
+          "ru": "ходить в пешие походы"
+        },
+        {
+          "en": "go swimming",
+          "transcription": "/ɡəʊ ˈswɪmɪŋ/",
+          "ru": "ходить плавать"
+        },
+        {
+          "en": "go skiing",
+          "transcription": "/ɡəʊ ˈskiːɪŋ/",
+          "ru": "ходить кататься на лыжах"
+        },
+        {
+          "en": "go skating",
+          "transcription": "/ɡəʊ ˈskeɪtɪŋ/",
+          "ru": "ходить кататься на коньках"
+        },
+        {
+          "en": "go cycling",
+          "transcription": "/ɡəʊ ˈsaɪklɪŋ/",
+          "ru": "ездить на велосипеде"
+        },
+        {
+          "en": "board game",
+          "transcription": "/ˈbɔːd ɡeɪm/",
+          "ru": "настольная игра"
+        },
+        {
+          "en": "video games",
+          "transcription": "/ˈvɪdiəʊ ɡeɪmz/",
+          "ru": "видеоигры"
+        },
+        {
+          "en": "jigsaw",
+          "transcription": "/ˈdʒɪɡsɔː/",
+          "ru": "пазл"
+        },
+        {
+          "en": "crossword",
+          "transcription": "/ˈkrɒswɜːd/",
+          "ru": "кроссворд"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Я умею играть на гитаре.",
+          "en": "I can play the guitar.",
+          "words": [
+            "I",
+            "can",
+            "play",
+            "the",
+            "guitar"
+          ]
+        },
+        {
+          "ru": "Мы вместе играем в настольные игры.",
+          "en": "We play board games together.",
+          "words": [
+            "We",
+            "play",
+            "board",
+            "games",
+            "together"
+          ]
+        },
+        {
+          "ru": "Я хожу на рыбалку с папой.",
+          "en": "I go fishing with my dad.",
+          "words": [
+            "I",
+            "go",
+            "fishing",
+            "with",
+            "my",
+            "dad"
+          ]
+        },
+        {
+          "ru": "Мой друг очень хорошо играет в шахматы.",
+          "en": "My friend can play chess very well.",
+          "words": [
+            "My",
+            "friend",
+            "can",
+            "play",
+            "chess",
+            "very",
+            "well"
+          ]
+        },
+        {
+          "ru": "Летом мы ходим в поход с палаткой и на рыбалку.",
+          "en": "In summer we go camping and fishing.",
+          "words": [
+            "In",
+            "summer",
+            "we",
+            "go",
+            "camping",
+            "and",
+            "fishing"
+          ]
+        },
+        {
+          "ru": "Дети любят играть в видеоигры.",
+          "en": "Children like playing video games.",
+          "words": [
+            "Children",
+            "like",
+            "playing",
+            "video",
+            "games"
+          ]
+        },
+        {
+          "ru": "Вечером мы собираем пазл.",
+          "en": "In the evening we do a jigsaw.",
+          "words": [
+            "In",
+            "the",
+            "evening",
+            "we",
+            "do",
+            "a",
+            "jigsaw"
+          ]
+        },
+        {
+          "ru": "Летом мы ходим плавать в бассейн.",
+          "en": "In summer we go swimming in the pool.",
+          "words": [
+            "In",
+            "summer",
+            "we",
+            "go",
+            "swimming",
+            "in",
+            "the",
+            "pool"
+          ]
+        },
+        {
+          "ru": "Зимой я хожу кататься на лыжах.",
+          "en": "In winter I go skiing in the mountains.",
+          "words": [
+            "In",
+            "winter",
+            "I",
+            "go",
+            "skiing",
+            "in",
+            "the",
+            "mountains"
+          ]
+        },
+        {
+          "ru": "Мой брат играет в футбол на стадионе.",
+          "en": "My brother plays football at the stadium.",
+          "words": [
+            "My",
+            "brother",
+            "plays",
+            "football",
+            "at",
+            "the",
+            "stadium"
+          ]
+        }
+      ],
+      "reading": [
+        "I can play the guitar.",
+        "We play board games together.",
+        "I go fishing with my dad.",
+        "My friend can play chess very well.",
+        "In summer we go camping and fishing.",
+        "Children like playing video games at home.",
+        "In the evening we do a jigsaw or a crossword.",
+        "In summer we go swimming in the pool.",
+        "In winter I go skiing in the mountains.",
+        "My brother plays football at the stadium."
+      ]
+    },
+    {
+      "id": "6c",
+      "title": "6c. Cultural diversity",
+      "words": [
+        {
+          "en": "dancing",
+          "transcription": "/ˈdɑːnsɪŋ/",
+          "ru": "танцы"
+        },
+        {
+          "en": "singing",
+          "transcription": "/ˈsɪŋɪŋ/",
+          "ru": "пение"
+        },
+        {
+          "en": "cycling",
+          "transcription": "/ˈsaɪklɪŋ/",
+          "ru": "езда на велосипеде"
+        },
+        {
+          "en": "jogging",
+          "transcription": "/ˈdʒɒɡɪŋ/",
+          "ru": "бег трусцой"
+        },
+        {
+          "en": "doll",
+          "transcription": "/dɒl/",
+          "ru": "кукла"
+        },
+        {
+          "en": "teddy bear",
+          "transcription": "/ˈtedi beə/",
+          "ru": "плюшевый мишка"
+        },
+        {
+          "en": "kite",
+          "transcription": "/kaɪt/",
+          "ru": "воздушный змей"
+        },
+        {
+          "en": "marbles",
+          "transcription": "/ˈmɑːblz/",
+          "ru": "игра в шарики"
+        },
+        {
+          "en": "model plane",
+          "transcription": "/ˈmɒdl pleɪn/",
+          "ru": "модель самолёта"
+        },
+        {
+          "en": "sports centre",
+          "transcription": "/spɔːts ˈsentə/",
+          "ru": "спортивный центр"
+        },
+        {
+          "en": "gym",
+          "transcription": "/dʒɪm/",
+          "ru": "спортзал"
+        },
+        {
+          "en": "stadium",
+          "transcription": "/ˈsteɪdiəm/",
+          "ru": "стадион"
+        },
+        {
+          "en": "cinema",
+          "transcription": "/ˈsɪnəmə/",
+          "ru": "кинотеатр"
+        },
+        {
+          "en": "theatre",
+          "transcription": "/ˈθɪətə/",
+          "ru": "театр"
+        },
+        {
+          "en": "playground",
+          "transcription": "/ˈpleɪɡraʊnd/",
+          "ru": "игровая площадка"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Моя сестра любит танцы и пение.",
+          "en": "My sister likes dancing and singing.",
+          "words": [
+            "My",
+            "sister",
+            "likes",
+            "dancing",
+            "and",
+            "singing"
+          ]
+        },
+        {
+          "ru": "Мой младший брат играет со своим плюшевым мишкой.",
+          "en": "My little brother plays with his teddy bear.",
+          "words": [
+            "My",
+            "little",
+            "brother",
+            "plays",
+            "with",
+            "his",
+            "teddy",
+            "bear"
+          ]
+        },
+        {
+          "ru": "Мы запускаем воздушного змея во дворе.",
+          "en": "We fly a kite in the yard.",
+          "words": [
+            "We",
+            "fly",
+            "a",
+            "kite",
+            "in",
+            "the",
+            "yard"
+          ]
+        },
+        {
+          "ru": "По воскресеньям мы ходим в кино.",
+          "en": "On Sundays we go to the cinema.",
+          "words": [
+            "On",
+            "Sundays",
+            "we",
+            "go",
+            "to",
+            "the",
+            "cinema"
+          ]
+        },
+        {
+          "ru": "Мои родители ходят в спортзал.",
+          "en": "My parents go to the gym.",
+          "words": [
+            "My",
+            "parents",
+            "go",
+            "to",
+            "the",
+            "gym"
+          ]
+        },
+        {
+          "ru": "Моё хобби — делать модели самолётов.",
+          "en": "My hobby is making model planes.",
+          "words": [
+            "My",
+            "hobby",
+            "is",
+            "making",
+            "model",
+            "planes"
+          ]
+        },
+        {
+          "ru": "Моя сестра ходит на коньки и на велосипед каждую неделю.",
+          "en": "My sister goes skating and goes cycling every week.",
+          "words": [
+            "My",
+            "sister",
+            "goes",
+            "skating",
+            "and",
+            "goes",
+            "cycling",
+            "every",
+            "week"
+          ]
+        }
+      ],
+      "reading": [
+        "My sister likes dancing and singing.",
+        "My little brother plays with his teddy bear.",
+        "We fly a kite and play marbles in the yard.",
+        "On Sundays we go to the cinema or to the theatre.",
+        "My parents go to the gym after work.",
+        "My hobby is making model planes.",
+        "My sister goes skating and goes cycling every week."
+      ]
+    },
+    {
+      "id": "6d",
+      "title": "6d. Culture Corner",
+      "words": [
+        {
+          "en": "relaxing",
+          "transcription": "/rɪˈlæksɪŋ/",
+          "ru": "расслабляющий"
+        },
+        {
+          "en": "creative",
+          "transcription": "/kriˈeɪtɪv/",
+          "ru": "творческий"
+        },
+        {
+          "en": "exciting",
+          "transcription": "/ɪkˈsaɪtɪŋ/",
+          "ru": "увлекательный"
+        },
+        {
+          "en": "boring",
+          "transcription": "/ˈbɔːrɪŋ/",
+          "ru": "скучный"
+        },
+        {
+          "en": "enjoyable",
+          "transcription": "/ɪnˈdʒɔɪəbl/",
+          "ru": "приятный"
+        },
+        {
+          "en": "active",
+          "transcription": "/ˈæktɪv/",
+          "ru": "активный"
+        },
+        {
+          "en": "indoor",
+          "transcription": "/ˈɪndɔː/",
+          "ru": "комнатный"
+        },
+        {
+          "en": "outdoor",
+          "transcription": "/ˈaʊtdɔː/",
+          "ru": "на открытом воздухе"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Чтение книг — очень расслабляющее занятие.",
+          "en": "Reading books is very relaxing.",
+          "words": [
+            "Reading",
+            "books",
+            "is",
+            "very",
+            "relaxing"
+          ]
+        },
+        {
+          "ru": "Рисование — это творческое хобби.",
+          "en": "Drawing is a creative hobby.",
+          "words": [
+            "Drawing",
+            "is",
+            "a",
+            "creative",
+            "hobby"
+          ]
+        },
+        {
+          "ru": "Футбол — активная игра на открытом воздухе.",
+          "en": "Football is an active outdoor game.",
+          "words": [
+            "Football",
+            "is",
+            "an",
+            "active",
+            "outdoor",
+            "game"
+          ]
+        }
+      ],
+      "reading": [
+        "Reading books is very relaxing.",
+        "Drawing is a creative hobby.",
+        "Football is an active outdoor game."
+      ]
+    }
+  ]
+}

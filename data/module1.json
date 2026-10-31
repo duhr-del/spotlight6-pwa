@@ -1,0 +1,732 @@
+{
+  "id": "module1",
+  "title": "Модуль 1. Who's who?",
+  "color": "#4A6FA5",
+  "sections": [
+    {
+      "id": "1a",
+      "title": "1a. Family members",
+      "words": [
+        {
+          "en": "mother",
+          "transcription": "/ˈmʌðə/",
+          "ru": "мама"
+        },
+        {
+          "en": "father",
+          "transcription": "/ˈfɑːðə/",
+          "ru": "папа"
+        },
+        {
+          "en": "parents",
+          "transcription": "/ˈpeərənts/",
+          "ru": "родители"
+        },
+        {
+          "en": "brother",
+          "transcription": "/ˈbrʌðə/",
+          "ru": "брат"
+        },
+        {
+          "en": "sister",
+          "transcription": "/ˈsɪstə/",
+          "ru": "сестра"
+        },
+        {
+          "en": "son",
+          "transcription": "/sʌn/",
+          "ru": "сын"
+        },
+        {
+          "en": "daughter",
+          "transcription": "/ˈdɔːtə/",
+          "ru": "дочь"
+        },
+        {
+          "en": "husband",
+          "transcription": "/ˈhʌzbənd/",
+          "ru": "муж"
+        },
+        {
+          "en": "wife",
+          "transcription": "/waɪf/",
+          "ru": "жена"
+        },
+        {
+          "en": "children",
+          "transcription": "/ˈtʃɪldrən/",
+          "ru": "дети"
+        },
+        {
+          "en": "twins",
+          "transcription": "/twɪnz/",
+          "ru": "близнецы"
+        },
+        {
+          "en": "grandparents",
+          "transcription": "/ˈɡrænpeərənts/",
+          "ru": "бабушка и дедушка"
+        },
+        {
+          "en": "grandfather",
+          "transcription": "/ˈɡrænfɑːðə/",
+          "ru": "дедушка"
+        },
+        {
+          "en": "grandmother",
+          "transcription": "/ˈɡrænmʌðə/",
+          "ru": "бабушка"
+        },
+        {
+          "en": "grandson",
+          "transcription": "/ˈɡrænsʌn/",
+          "ru": "внук"
+        },
+        {
+          "en": "granddaughter",
+          "transcription": "/ˈɡrænˌdɔːtə/",
+          "ru": "внучка"
+        },
+        {
+          "en": "cousin",
+          "transcription": "/ˈkʌzn/",
+          "ru": "двоюродный брат или сестра"
+        },
+        {
+          "en": "aunt",
+          "transcription": "/ɑːnt/",
+          "ru": "тётя"
+        },
+        {
+          "en": "uncle",
+          "transcription": "/ˈʌŋkl/",
+          "ru": "дядя"
+        },
+        {
+          "en": "only child",
+          "transcription": "/ˈəʊnli tʃaɪld/",
+          "ru": "единственный ребёнок в семье"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "У меня есть сестра и брат.",
+          "en": "I have got a sister and a brother.",
+          "words": [
+            "I",
+            "have",
+            "got",
+            "a",
+            "sister",
+            "and",
+            "a",
+            "brother"
+          ]
+        },
+        {
+          "ru": "Их бабушка и дедушка пожилые.",
+          "en": "Their grandparents are elderly.",
+          "words": [
+            "Their",
+            "grandparents",
+            "are",
+            "elderly"
+          ]
+        },
+        {
+          "ru": "Это мой двоюродный брат.",
+          "en": "This is my cousin.",
+          "words": [
+            "This",
+            "is",
+            "my",
+            "cousin"
+          ]
+        },
+        {
+          "ru": "У него есть внук и внучка.",
+          "en": "He has got a grandson and a granddaughter.",
+          "words": [
+            "He",
+            "has",
+            "got",
+            "a",
+            "grandson",
+            "and",
+            "a",
+            "granddaughter"
+          ]
+        },
+        {
+          "ru": "Моя мама — единственный ребёнок в семье.",
+          "en": "My mum is an only child.",
+          "words": [
+            "My",
+            "mum",
+            "is",
+            "an",
+            "only",
+            "child"
+          ]
+        },
+        {
+          "ru": "Мой брат — близнец.",
+          "en": "My brother is a twin.",
+          "words": [
+            "My",
+            "brother",
+            "is",
+            "a",
+            "twin"
+          ]
+        }
+      ],
+      "reading": [
+        "I have got a sister and a brother.",
+        "Their grandparents are elderly and kind.",
+        "This is my cousin from Canada.",
+        "He has got a grandson and a granddaughter.",
+        "My mum is an only child in her family.",
+        "My brother is a twin and he is tall."
+      ]
+    },
+    {
+      "id": "1b",
+      "title": "1b. Who are you?",
+      "words": [
+        {
+          "en": "tall",
+          "transcription": "/tɔːl/",
+          "ru": "высокий"
+        },
+        {
+          "en": "short",
+          "transcription": "/ʃɔːt/",
+          "ru": "низкий (о росте)"
+        },
+        {
+          "en": "slim",
+          "transcription": "/slɪm/",
+          "ru": "стройный"
+        },
+        {
+          "en": "plump",
+          "transcription": "/plʌmp/",
+          "ru": "пухлый"
+        },
+        {
+          "en": "fair hair",
+          "transcription": "/feə heə/",
+          "ru": "светлые волосы"
+        },
+        {
+          "en": "dark hair",
+          "transcription": "/dɑːk heə/",
+          "ru": "тёмные волосы"
+        },
+        {
+          "en": "wavy hair",
+          "transcription": "/ˈweɪvi heə/",
+          "ru": "волнистые волосы"
+        },
+        {
+          "en": "straight hair",
+          "transcription": "/streɪt heə/",
+          "ru": "прямые волосы"
+        },
+        {
+          "en": "curly hair",
+          "transcription": "/ˈkɜːli heə/",
+          "ru": "кудрявые волосы"
+        },
+        {
+          "en": "ginger hair",
+          "transcription": "/ˈdʒɪndʒə heə/",
+          "ru": "рыжие волосы"
+        },
+        {
+          "en": "middle-aged",
+          "transcription": "/ˈmɪdl eɪdʒd/",
+          "ru": "средних лет"
+        },
+        {
+          "en": "elderly",
+          "transcription": "/ˈeldəli/",
+          "ru": "пожилой"
+        },
+        {
+          "en": "handsome",
+          "transcription": "/ˈhænsəm/",
+          "ru": "красивый (о мужчине)"
+        },
+        {
+          "en": "pretty",
+          "transcription": "/ˈprɪti/",
+          "ru": "симпатичная"
+        },
+        {
+          "en": "freckles",
+          "transcription": "/ˈfreklz/",
+          "ru": "веснушки"
+        },
+        {
+          "en": "glasses",
+          "transcription": "/ˈɡlɑːsɪz/",
+          "ru": "очки"
+        },
+        {
+          "en": "beard",
+          "transcription": "/bɪəd/",
+          "ru": "борода"
+        },
+        {
+          "en": "moustache",
+          "transcription": "/məˈstɑːʃ/",
+          "ru": "усы"
+        },
+        {
+          "en": "bald",
+          "transcription": "/bɔːld/",
+          "ru": "лысый"
+        },
+        {
+          "en": "ponytail",
+          "transcription": "/ˈpəʊniteɪl/",
+          "ru": "хвост (причёска)"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Он высокий и стройный.",
+          "en": "He is tall and slim.",
+          "words": [
+            "He",
+            "is",
+            "tall",
+            "and",
+            "slim"
+          ]
+        },
+        {
+          "ru": "У неё светлые волнистые волосы.",
+          "en": "She has got fair wavy hair.",
+          "words": [
+            "She",
+            "has",
+            "got",
+            "fair",
+            "wavy",
+            "hair"
+          ]
+        },
+        {
+          "ru": "У него тёмные прямые волосы.",
+          "en": "He has got dark straight hair.",
+          "words": [
+            "He",
+            "has",
+            "got",
+            "dark",
+            "straight",
+            "hair"
+          ]
+        },
+        {
+          "ru": "У неё кудрявые рыжие волосы.",
+          "en": "She has got curly ginger hair.",
+          "words": [
+            "She",
+            "has",
+            "got",
+            "curly",
+            "ginger",
+            "hair"
+          ]
+        },
+        {
+          "ru": "Она среднего возраста.",
+          "en": "She is middle-aged.",
+          "words": [
+            "She",
+            "is",
+            "middle-aged"
+          ]
+        },
+        {
+          "ru": "Он носит очки и бороду.",
+          "en": "He wears glasses and a beard.",
+          "words": [
+            "He",
+            "wears",
+            "glasses",
+            "and",
+            "a",
+            "beard"
+          ]
+        },
+        {
+          "ru": "Моя сестра очень симпатичная.",
+          "en": "My sister is very pretty.",
+          "words": [
+            "My",
+            "sister",
+            "is",
+            "very",
+            "pretty"
+          ]
+        },
+        {
+          "ru": "Мой дядя лысый и носит усы.",
+          "en": "My uncle is bald and has a moustache.",
+          "words": [
+            "My",
+            "uncle",
+            "is",
+            "bald",
+            "and",
+            "has",
+            "a",
+            "moustache"
+          ]
+        }
+      ],
+      "reading": [
+        "He is tall and slim.",
+        "She has got fair wavy hair.",
+        "He has got dark straight hair.",
+        "She has got curly ginger hair and freckles.",
+        "She is middle-aged and pretty.",
+        "He wears glasses and has a beard.",
+        "My uncle is bald and has a moustache.",
+        "This handsome man is my father."
+      ]
+    },
+    {
+      "id": "1c",
+      "title": "My Country",
+      "words": [
+        {
+          "en": "British",
+          "transcription": "/ˈbrɪtɪʃ/",
+          "ru": "британский"
+        },
+        {
+          "en": "American",
+          "transcription": "/əˈmerɪkən/",
+          "ru": "американский"
+        },
+        {
+          "en": "Canadian",
+          "transcription": "/kəˈneɪdiən/",
+          "ru": "канадский"
+        },
+        {
+          "en": "Australian",
+          "transcription": "/ɒˈstreɪliən/",
+          "ru": "австралийский"
+        },
+        {
+          "en": "Scottish",
+          "transcription": "/ˈskɒtɪʃ/",
+          "ru": "шотландский"
+        },
+        {
+          "en": "Irish",
+          "transcription": "/ˈaɪərɪʃ/",
+          "ru": "ирландский"
+        },
+        {
+          "en": "French",
+          "transcription": "/frentʃ/",
+          "ru": "французский"
+        },
+        {
+          "en": "German",
+          "transcription": "/ˈdʒɜːmən/",
+          "ru": "немецкий"
+        },
+        {
+          "en": "Italian",
+          "transcription": "/ɪˈtæliən/",
+          "ru": "итальянский"
+        },
+        {
+          "en": "Spanish",
+          "transcription": "/ˈspænɪʃ/",
+          "ru": "испанский"
+        },
+        {
+          "en": "Russian",
+          "transcription": "/ˈrʌʃn/",
+          "ru": "русский"
+        },
+        {
+          "en": "capital city",
+          "transcription": "/ˈkæpɪtl ˈsɪti/",
+          "ru": "столица"
+        },
+        {
+          "en": "country",
+          "transcription": "/ˈkʌntri/",
+          "ru": "страна"
+        },
+        {
+          "en": "nationality",
+          "transcription": "/ˌnæʃəˈnæləti/",
+          "ru": "национальность"
+        },
+        {
+          "en": "language",
+          "transcription": "/ˈlæŋɡwɪdʒ/",
+          "ru": "язык"
+        },
+        {
+          "en": "population",
+          "transcription": "/ˌpɒpjəˈleɪʃn/",
+          "ru": "население"
+        },
+        {
+          "en": "north",
+          "transcription": "/nɔːθ/",
+          "ru": "север"
+        },
+        {
+          "en": "south",
+          "transcription": "/saʊθ/",
+          "ru": "юг"
+        },
+        {
+          "en": "east",
+          "transcription": "/iːst/",
+          "ru": "восток"
+        },
+        {
+          "en": "west",
+          "transcription": "/west/",
+          "ru": "запад"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Лондон — столица Великобритании.",
+          "en": "London is the capital of the UK.",
+          "words": [
+            "London",
+            "is",
+            "the",
+            "capital",
+            "of",
+            "the",
+            "UK"
+          ]
+        },
+        {
+          "ru": "Они шотландцы.",
+          "en": "They are Scottish.",
+          "words": [
+            "They",
+            "are",
+            "Scottish"
+          ]
+        },
+        {
+          "ru": "Моя тётя из Канады.",
+          "en": "My aunt is from Canada.",
+          "words": [
+            "My",
+            "aunt",
+            "is",
+            "from",
+            "Canada"
+          ]
+        },
+        {
+          "ru": "Она из Австралии.",
+          "en": "She is from Australia.",
+          "words": [
+            "She",
+            "is",
+            "from",
+            "Australia"
+          ]
+        },
+        {
+          "ru": "Она говорит по-немецки и по-английски.",
+          "en": "She speaks German and English.",
+          "words": [
+            "She",
+            "speaks",
+            "German",
+            "and",
+            "English"
+          ]
+        },
+        {
+          "ru": "Их родители — британцы.",
+          "en": "Their parents are British.",
+          "words": [
+            "Their",
+            "parents",
+            "are",
+            "British"
+          ]
+        },
+        {
+          "ru": "Москва — большой город на западе России.",
+          "en": "Moscow is a big city in the west of Russia.",
+          "words": [
+            "Moscow",
+            "is",
+            "a",
+            "big",
+            "city",
+            "in",
+            "the",
+            "west",
+            "of",
+            "Russia"
+          ]
+        }
+      ],
+      "reading": [
+        "London is the capital of the UK.",
+        "They are Scottish, not British.",
+        "My aunt is from Canada.",
+        "She is from Australia.",
+        "She speaks German and English very well.",
+        "Their parents are British.",
+        "Moscow is a big city in the west of Russia."
+      ]
+    },
+    {
+      "id": "1d",
+      "title": "Culture Corner",
+      "words": [
+        {
+          "en": "famous",
+          "transcription": "/ˈfeɪməs/",
+          "ru": "знаменитый"
+        },
+        {
+          "en": "actor",
+          "transcription": "/ˈæktə/",
+          "ru": "актёр"
+        },
+        {
+          "en": "actress",
+          "transcription": "/ˈæktrəs/",
+          "ru": "актриса"
+        },
+        {
+          "en": "writer",
+          "transcription": "/ˈraɪtə/",
+          "ru": "писатель"
+        },
+        {
+          "en": "scientist",
+          "transcription": "/ˈsaɪəntɪst/",
+          "ru": "учёный"
+        },
+        {
+          "en": "artist",
+          "transcription": "/ˈɑːtɪst/",
+          "ru": "художник"
+        },
+        {
+          "en": "musician",
+          "transcription": "/mjuˈzɪʃn/",
+          "ru": "музыкант"
+        },
+        {
+          "en": "singer",
+          "transcription": "/ˈsɪŋə/",
+          "ru": "певец, певица"
+        },
+        {
+          "en": "sports star",
+          "transcription": "/spɔːts stɑː/",
+          "ru": "спортивная звезда"
+        },
+        {
+          "en": "celebrity",
+          "transcription": "/səˈlebrəti/",
+          "ru": "знаменитость"
+        },
+        {
+          "en": "talented",
+          "transcription": "/ˈtæləntɪd/",
+          "ru": "талантливый"
+        },
+        {
+          "en": "well-known",
+          "transcription": "/ˌwel ˈnəʊn/",
+          "ru": "хорошо известный"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Этот знаменитый актёр — британец.",
+          "en": "This famous actor is British.",
+          "words": [
+            "This",
+            "famous",
+            "actor",
+            "is",
+            "British"
+          ]
+        },
+        {
+          "ru": "Она талантливая певица.",
+          "en": "She is a talented singer.",
+          "words": [
+            "She",
+            "is",
+            "a",
+            "talented",
+            "singer"
+          ]
+        },
+        {
+          "ru": "Мой дядя — известный художник.",
+          "en": "My uncle is a well-known artist.",
+          "words": [
+            "My",
+            "uncle",
+            "is",
+            "a",
+            "well-known",
+            "artist"
+          ]
+        },
+        {
+          "ru": "Этот писатель из Шотландии.",
+          "en": "This writer is from Scotland.",
+          "words": [
+            "This",
+            "writer",
+            "is",
+            "from",
+            "Scotland"
+          ]
+        },
+        {
+          "ru": "Её родители — знаменитости.",
+          "en": "Her parents are celebrities.",
+          "words": [
+            "Her",
+            "parents",
+            "are",
+            "celebrities"
+          ]
+        }
+      ],
+      "reading": [
+        "This famous actor is British.",
+        "She is a talented singer from Australia.",
+        "My uncle is a well-known artist.",
+        "This writer is from Scotland.",
+        "Her parents are celebrities in their country."
+      ]
+    }
+  ]
+}

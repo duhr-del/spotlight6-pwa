@@ -1,0 +1,697 @@
+{
+  "id": "module2",
+  "title": "Модуль 2. Here we are!",
+  "color": "#6FA84A",
+  "sections": [
+    {
+      "id": "2a",
+      "title": "2a. Happy Times",
+      "words": [
+        {
+          "en": "at",
+          "transcription": "/æt/",
+          "ru": "в (с указанием времени)",
+          "noSpeak": true
+        },
+        {
+          "en": "in",
+          "transcription": "/ɪn/",
+          "ru": "в (месяц, часть дня)",
+          "noSpeak": true
+        },
+        {
+          "en": "on",
+          "transcription": "/ɒn/",
+          "ru": "в (день недели)",
+          "noSpeak": true
+        },
+        {
+          "en": "at midnight",
+          "transcription": "/æt ˈmɪdnaɪt/",
+          "ru": "в полночь"
+        },
+        {
+          "en": "at midday",
+          "transcription": "/æt ˈmɪddeɪ/",
+          "ru": "в полдень"
+        },
+        {
+          "en": "at night",
+          "transcription": "/æt naɪt/",
+          "ru": "ночью"
+        },
+        {
+          "en": "at the weekend",
+          "transcription": "/æt ðə ˌwiːkˈend/",
+          "ru": "в выходные"
+        },
+        {
+          "en": "in the morning",
+          "transcription": "/ɪn ðə ˈmɔːnɪŋ/",
+          "ru": "утром"
+        },
+        {
+          "en": "in the evening",
+          "transcription": "/ɪn ðə ˈiːvnɪŋ/",
+          "ru": "вечером"
+        },
+        {
+          "en": "clock",
+          "transcription": "/klɒk/",
+          "ru": "часы (настенные)"
+        },
+        {
+          "en": "watch",
+          "transcription": "/wɒtʃ/",
+          "ru": "наручные часы"
+        },
+        {
+          "en": "quarter past",
+          "transcription": "/ˌkwɔːtə pɑːst/",
+          "ru": "четверть после"
+        },
+        {
+          "en": "quarter to",
+          "transcription": "/ˌkwɔːtə tə/",
+          "ru": "без четверти"
+        },
+        {
+          "en": "half past",
+          "transcription": "/hɑːf pɑːst/",
+          "ru": "половина после"
+        },
+        {
+          "en": "o'clock",
+          "transcription": "/əˈklɒk/",
+          "ru": "ровно (о времени)"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Я встаю в семь часов утра.",
+          "en": "I wake up at 7 o'clock in the morning.",
+          "words": [
+            "I",
+            "wake",
+            "up",
+            "at",
+            "7",
+            "o'clock",
+            "in",
+            "the",
+            "morning"
+          ]
+        },
+        {
+          "ru": "Сейчас четверть третьего.",
+          "en": "It is quarter past two.",
+          "words": [
+            "It",
+            "is",
+            "quarter",
+            "past",
+            "two"
+          ]
+        },
+        {
+          "ru": "Без четверти восемь.",
+          "en": "It is quarter to eight.",
+          "words": [
+            "It",
+            "is",
+            "quarter",
+            "to",
+            "eight"
+          ]
+        },
+        {
+          "ru": "Половина четвёртого.",
+          "en": "It is half past three.",
+          "words": [
+            "It",
+            "is",
+            "half",
+            "past",
+            "three"
+          ]
+        },
+        {
+          "ru": "Они ложатся спать в полночь.",
+          "en": "They go to bed at midnight.",
+          "words": [
+            "They",
+            "go",
+            "to",
+            "bed",
+            "at",
+            "midnight"
+          ]
+        },
+        {
+          "ru": "Я вижу друзей в выходные.",
+          "en": "I see my friends at the weekend.",
+          "words": [
+            "I",
+            "see",
+            "my",
+            "friends",
+            "at",
+            "the",
+            "weekend"
+          ]
+        }
+      ],
+      "reading": [
+        "I wake up at 7 o'clock in the morning.",
+        "It is quarter past two in the afternoon.",
+        "It is quarter to eight in the evening.",
+        "It is half past three now.",
+        "They go to bed at midnight.",
+        "I see my friends at the weekend."
+      ]
+    },
+    {
+      "id": "2b",
+      "title": "2b. My place",
+      "words": [
+        {
+          "en": "living room",
+          "transcription": "/ˈlɪvɪŋ ruːm/",
+          "ru": "гостиная"
+        },
+        {
+          "en": "bedroom",
+          "transcription": "/ˈbedruːm/",
+          "ru": "спальня"
+        },
+        {
+          "en": "kitchen",
+          "transcription": "/ˈkɪtʃɪn/",
+          "ru": "кухня"
+        },
+        {
+          "en": "bathroom",
+          "transcription": "/ˈbɑːθruːm/",
+          "ru": "ванная комната"
+        },
+        {
+          "en": "dining room",
+          "transcription": "/ˈdaɪnɪŋ ruːm/",
+          "ru": "столовая"
+        },
+        {
+          "en": "garage",
+          "transcription": "/ˈɡærɑːʒ/",
+          "ru": "гараж"
+        },
+        {
+          "en": "garden",
+          "transcription": "/ˈɡɑːdn/",
+          "ru": "сад"
+        },
+        {
+          "en": "flat",
+          "transcription": "/flæt/",
+          "ru": "квартира"
+        },
+        {
+          "en": "cottage",
+          "transcription": "/ˈkɒtɪdʒ/",
+          "ru": "деревенский домик"
+        },
+        {
+          "en": "study",
+          "transcription": "/ˈstʌdi/",
+          "ru": "кабинет"
+        },
+        {
+          "en": "attic",
+          "transcription": "/ˈætɪk/",
+          "ru": "чердак"
+        },
+        {
+          "en": "basement",
+          "transcription": "/ˈbeɪsmənt/",
+          "ru": "подвал"
+        },
+        {
+          "en": "hall",
+          "transcription": "/hɔːl/",
+          "ru": "прихожая, коридор"
+        },
+        {
+          "en": "stairs",
+          "transcription": "/steəz/",
+          "ru": "лестница"
+        },
+        {
+          "en": "sofa",
+          "transcription": "/ˈsəʊfə/",
+          "ru": "диван"
+        },
+        {
+          "en": "armchair",
+          "transcription": "/ˈɑːmtʃeə/",
+          "ru": "кресло"
+        },
+        {
+          "en": "coffee table",
+          "transcription": "/ˈkɒfi teɪbl/",
+          "ru": "журнальный столик"
+        },
+        {
+          "en": "cushion",
+          "transcription": "/ˈkʊʃn/",
+          "ru": "подушка (декоративная)"
+        },
+        {
+          "en": "fireplace",
+          "transcription": "/ˈfaɪəpleɪs/",
+          "ru": "камин"
+        },
+        {
+          "en": "wardrobe",
+          "transcription": "/ˈwɔːdrəʊb/",
+          "ru": "шкаф для одежды"
+        },
+        {
+          "en": "table",
+          "transcription": "/ˈteɪbl/",
+          "ru": "стол"
+        },
+        {
+          "en": "chair",
+          "transcription": "/tʃeə/",
+          "ru": "стул"
+        },
+        {
+          "en": "desk",
+          "transcription": "/desk/",
+          "ru": "письменный стол"
+        },
+        {
+          "en": "bookcase",
+          "transcription": "/ˈbʊkkeɪs/",
+          "ru": "книжный шкаф"
+        },
+        {
+          "en": "cupboard",
+          "transcription": "/ˈkʌbəd/",
+          "ru": "буфет, шкафчик"
+        },
+        {
+          "en": "mirror",
+          "transcription": "/ˈmɪrə/",
+          "ru": "зеркало"
+        },
+        {
+          "en": "carpet",
+          "transcription": "/ˈkɑːpɪt/",
+          "ru": "ковёр"
+        },
+        {
+          "en": "curtain",
+          "transcription": "/ˈkɜːtən/",
+          "ru": "занавеска"
+        },
+        {
+          "en": "lamp",
+          "transcription": "/læmp/",
+          "ru": "лампа"
+        },
+        {
+          "en": "painting",
+          "transcription": "/ˈpeɪntɪŋ/",
+          "ru": "картина"
+        },
+        {
+          "en": "fridge",
+          "transcription": "/frɪdʒ/",
+          "ru": "холодильник"
+        },
+        {
+          "en": "comfortable",
+          "transcription": "/ˈkʌmftəbl/",
+          "ru": "удобный"
+        },
+        {
+          "en": "modern",
+          "transcription": "/ˈmɒdn/",
+          "ru": "современный"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "В гостиной есть камин.",
+          "en": "There is a fireplace in the living room.",
+          "words": [
+            "There",
+            "is",
+            "a",
+            "fireplace",
+            "in",
+            "the",
+            "living",
+            "room"
+          ]
+        },
+        {
+          "ru": "На диване несколько подушек.",
+          "en": "There are some cushions on the sofa.",
+          "words": [
+            "There",
+            "are",
+            "some",
+            "cushions",
+            "on",
+            "the",
+            "sofa"
+          ]
+        },
+        {
+          "ru": "Холодильник на кухне.",
+          "en": "The fridge is in the kitchen.",
+          "words": [
+            "The",
+            "fridge",
+            "is",
+            "in",
+            "the",
+            "kitchen"
+          ]
+        },
+        {
+          "ru": "Мы живём в удобной квартире.",
+          "en": "We live in a comfortable flat.",
+          "words": [
+            "We",
+            "live",
+            "in",
+            "a",
+            "comfortable",
+            "flat"
+          ]
+        },
+        {
+          "ru": "Книжный шкаф стоит в кабинете.",
+          "en": "The bookcase is in the study.",
+          "words": [
+            "The",
+            "bookcase",
+            "is",
+            "in",
+            "the",
+            "study"
+          ]
+        },
+        {
+          "ru": "На стене в прихожей висит зеркало.",
+          "en": "There is a mirror in the hall.",
+          "words": [
+            "There",
+            "is",
+            "a",
+            "mirror",
+            "in",
+            "the",
+            "hall"
+          ]
+        },
+        {
+          "ru": "Ковёр лежит в гостиной.",
+          "en": "The carpet is in the living room.",
+          "words": [
+            "The",
+            "carpet",
+            "is",
+            "in",
+            "the",
+            "living",
+            "room"
+          ]
+        },
+        {
+          "ru": "Мой письменный стол стоит у окна.",
+          "en": "My desk is near the window.",
+          "words": [
+            "My",
+            "desk",
+            "is",
+            "near",
+            "the",
+            "window"
+          ]
+        }
+      ],
+      "reading": [
+        "There is a fireplace in the living room.",
+        "There are some cushions on the sofa.",
+        "The fridge is in the kitchen.",
+        "We live in a comfortable flat.",
+        "The bookcase is in the study.",
+        "There is a mirror in the hall.",
+        "The carpet is in the living room.",
+        "My desk is near the window."
+      ]
+    },
+    {
+      "id": "2c",
+      "title": "2c. Cultural diversity",
+      "words": [
+        {
+          "en": "library",
+          "transcription": "/ˈlaɪbrəri/",
+          "ru": "библиотека"
+        },
+        {
+          "en": "swimming pool",
+          "transcription": "/ˈswɪmɪŋ puːl/",
+          "ru": "бассейн"
+        },
+        {
+          "en": "post office",
+          "transcription": "/pəʊst ˈɒfɪs/",
+          "ru": "почта"
+        },
+        {
+          "en": "block of flats",
+          "transcription": "/blɒk əv flæts/",
+          "ru": "многоквартирный дом"
+        },
+        {
+          "en": "newsagent's",
+          "transcription": "/ˈnjuːzeɪdʒənts/",
+          "ru": "газетный киоск"
+        },
+        {
+          "en": "supermarket",
+          "transcription": "/ˈsuːpəmɑːkɪt/",
+          "ru": "супермаркет"
+        },
+        {
+          "en": "bakery",
+          "transcription": "/ˈbeɪkəri/",
+          "ru": "булочная"
+        },
+        {
+          "en": "chemist's",
+          "transcription": "/ˈkemɪsts/",
+          "ru": "аптека"
+        },
+        {
+          "en": "bank",
+          "transcription": "/bæŋk/",
+          "ru": "банк"
+        },
+        {
+          "en": "café",
+          "transcription": "/ˈkæfeɪ/",
+          "ru": "кафе"
+        },
+        {
+          "en": "restaurant",
+          "transcription": "/ˈrestrɒnt/",
+          "ru": "ресторан"
+        },
+        {
+          "en": "street",
+          "transcription": "/striːt/",
+          "ru": "улица"
+        },
+        {
+          "en": "neighbour",
+          "transcription": "/ˈneɪbə/",
+          "ru": "сосед"
+        },
+        {
+          "en": "neighbourhood",
+          "transcription": "/ˈneɪbəhʊd/",
+          "ru": "район, соседство"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Мы можем плавать в бассейне.",
+          "en": "We can swim in the swimming pool.",
+          "words": [
+            "We",
+            "can",
+            "swim",
+            "in",
+            "the",
+            "swimming",
+            "pool"
+          ]
+        },
+        {
+          "ru": "Мы живём в многоквартирном доме.",
+          "en": "We live in a block of flats.",
+          "words": [
+            "We",
+            "live",
+            "in",
+            "a",
+            "block",
+            "of",
+            "flats"
+          ]
+        },
+        {
+          "ru": "Можно купить газеты в киоске.",
+          "en": "We can buy newspapers at the newsagent's.",
+          "words": [
+            "We",
+            "can",
+            "buy",
+            "newspapers",
+            "at",
+            "the",
+            "newsagent's"
+          ]
+        },
+        {
+          "ru": "Супермаркет рядом с булочной.",
+          "en": "The supermarket is next to the bakery.",
+          "words": [
+            "The",
+            "supermarket",
+            "is",
+            "next",
+            "to",
+            "the",
+            "bakery"
+          ]
+        },
+        {
+          "ru": "Аптека находится между банком и кафе.",
+          "en": "The chemist's is between the bank and the café.",
+          "words": [
+            "The",
+            "chemist's",
+            "is",
+            "between",
+            "the",
+            "bank",
+            "and",
+            "the",
+            "café"
+          ]
+        }
+      ],
+      "reading": [
+        "We can swim in the swimming pool.",
+        "We live in a block of flats.",
+        "We can buy newspapers at the newsagent's.",
+        "The supermarket is next to the bakery.",
+        "The chemist's is between the bank and the café."
+      ]
+    },
+    {
+      "id": "2d",
+      "title": "2d. Culture Corner",
+      "words": [
+        {
+          "en": "capital",
+          "transcription": "/ˈkæpɪtl/",
+          "ru": "столица"
+        },
+        {
+          "en": "tent",
+          "transcription": "/tent/",
+          "ru": "палатка"
+        },
+        {
+          "en": "detached house",
+          "transcription": "/dɪˈtætʃt haʊs/",
+          "ru": "отдельно стоящий дом"
+        },
+        {
+          "en": "semi-detached",
+          "transcription": "/ˌsemi dɪˈtætʃt/",
+          "ru": "дом на две семьи"
+        },
+        {
+          "en": "terraced house",
+          "transcription": "/ˈterəst haʊs/",
+          "ru": "дом в ряду одинаковых"
+        },
+        {
+          "en": "traditional",
+          "transcription": "/trəˈdɪʃənl/",
+          "ru": "традиционный"
+        },
+        {
+          "en": "typical",
+          "transcription": "/ˈtɪpɪkl/",
+          "ru": "типичный"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Многие британцы живут в домах на две семьи.",
+          "en": "Many British people live in semi-detached houses.",
+          "words": [
+            "Many",
+            "British",
+            "people",
+            "live",
+            "in",
+            "semi-detached",
+            "houses"
+          ]
+        },
+        {
+          "ru": "Типичный английский дом имеет сад.",
+          "en": "A typical English house has a garden.",
+          "words": [
+            "A",
+            "typical",
+            "English",
+            "house",
+            "has",
+            "a",
+            "garden"
+          ]
+        },
+        {
+          "ru": "В Лондоне много домов в ряду.",
+          "en": "There are many terraced houses in London.",
+          "words": [
+            "There",
+            "are",
+            "many",
+            "terraced",
+            "houses",
+            "in",
+            "London"
+          ]
+        }
+      ],
+      "reading": [
+        "Many British people live in semi-detached houses.",
+        "A typical English house has a small garden.",
+        "There are many terraced houses in London."
+      ]
+    }
+  ]
+}

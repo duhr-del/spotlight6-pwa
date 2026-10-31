@@ -1,0 +1,701 @@
+{
+  "id": "module8",
+  "title": "Модуль 8. Rules and regulations",
+  "color": "#6C7FA0",
+  "sections": [
+    {
+      "id": "8a",
+      "title": "8a. Rules",
+      "words": [
+        {
+          "en": "rule",
+          "transcription": "/ruːl/",
+          "ru": "правило"
+        },
+        {
+          "en": "follow the rules",
+          "transcription": "/ˌfɒləʊ ðə ˈruːlz/",
+          "ru": "соблюдать правила"
+        },
+        {
+          "en": "allowed",
+          "transcription": "/əˈlaʊd/",
+          "ru": "разрешено"
+        },
+        {
+          "en": "forbidden",
+          "transcription": "/fəˈbɪdn/",
+          "ru": "запрещено"
+        },
+        {
+          "en": "permission",
+          "transcription": "/pəˈmɪʃn/",
+          "ru": "разрешение"
+        },
+        {
+          "en": "must",
+          "transcription": "/mʌst/",
+          "ru": "должен, обязан",
+          "noSpeak": true
+        },
+        {
+          "en": "mustn't",
+          "transcription": "/ˈmʌsnt/",
+          "ru": "нельзя, не должен",
+          "noSpeak": true
+        },
+        {
+          "en": "can",
+          "transcription": "/kæn/",
+          "ru": "можно; уметь",
+          "noSpeak": true
+        },
+        {
+          "en": "can't",
+          "transcription": "/kɑːnt/",
+          "ru": "нельзя; не уметь",
+          "noSpeak": true
+        },
+        {
+          "en": "have to",
+          "transcription": "/ˈhæv tə/",
+          "ru": "приходится, должен"
+        },
+        {
+          "en": "uniform",
+          "transcription": "/ˈjuːnɪfɔːm/",
+          "ru": "школьная форма"
+        },
+        {
+          "en": "be late",
+          "transcription": "/biː ˈleɪt/",
+          "ru": "опаздывать"
+        },
+        {
+          "en": "be quiet",
+          "transcription": "/biː ˈkwaɪət/",
+          "ru": "соблюдать тишину"
+        },
+        {
+          "en": "obey",
+          "transcription": "/əˈbeɪ/",
+          "ru": "подчиняться (правилам)"
+        },
+        {
+          "en": "break a rule",
+          "transcription": "/breɪk ə ruːl/",
+          "ru": "нарушить правило"
+        },
+        {
+          "en": "compulsory",
+          "transcription": "/kəmˈpʌlsəri/",
+          "ru": "обязательный"
+        },
+        {
+          "en": "raise your hand",
+          "transcription": "/reɪz jɔː hænd/",
+          "ru": "поднять руку"
+        },
+        {
+          "en": "stand in line",
+          "transcription": "/stænd ɪn laɪn/",
+          "ru": "стоять в очереди"
+        },
+        {
+          "en": "wait your turn",
+          "transcription": "/weɪt jɔː tɜːn/",
+          "ru": "ждать своей очереди"
+        },
+        {
+          "en": "take turns",
+          "transcription": "/teɪk tɜːnz/",
+          "ru": "чередоваться"
+        },
+        {
+          "en": "tidy up",
+          "transcription": "/ˈtaɪdi ʌp/",
+          "ru": "убираться"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Мы должны носить школьную форму.",
+          "en": "We must wear a school uniform.",
+          "words": [
+            "We",
+            "must",
+            "wear",
+            "a",
+            "school",
+            "uniform"
+          ]
+        },
+        {
+          "ru": "Нельзя опаздывать в школу.",
+          "en": "You mustn't be late for school.",
+          "words": [
+            "You",
+            "mustn't",
+            "be",
+            "late",
+            "for",
+            "school"
+          ]
+        },
+        {
+          "ru": "Нельзя бегать в коридоре.",
+          "en": "We can't run in the corridor.",
+          "words": [
+            "We",
+            "can't",
+            "run",
+            "in",
+            "the",
+            "corridor"
+          ]
+        },
+        {
+          "ru": "В библиотеке нужно соблюдать тишину.",
+          "en": "We must be quiet in the library.",
+          "words": [
+            "We",
+            "must",
+            "be",
+            "quiet",
+            "in",
+            "the",
+            "library"
+          ]
+        },
+        {
+          "ru": "Мы должны соблюдать школьные правила.",
+          "en": "We have to follow the school rules.",
+          "words": [
+            "We",
+            "have",
+            "to",
+            "follow",
+            "the",
+            "school",
+            "rules"
+          ]
+        },
+        {
+          "ru": "Подними руку, прежде чем ответить.",
+          "en": "Raise your hand before you answer.",
+          "words": [
+            "Raise",
+            "your",
+            "hand",
+            "before",
+            "you",
+            "answer"
+          ]
+        },
+        {
+          "ru": "Дети чередуются в игре.",
+          "en": "Children take turns in the game.",
+          "words": [
+            "Children",
+            "take",
+            "turns",
+            "in",
+            "the",
+            "game"
+          ]
+        },
+        {
+          "ru": "После урока все убираются в классе.",
+          "en": "After the lesson everyone tidies up the classroom.",
+          "words": [
+            "After",
+            "the",
+            "lesson",
+            "everyone",
+            "tidies",
+            "up",
+            "the",
+            "classroom"
+          ]
+        },
+        {
+          "ru": "Ученики должны подчиняться правилам.",
+          "en": "Pupils must obey the rules.",
+          "words": [
+            "Pupils",
+            "must",
+            "obey",
+            "the",
+            "rules"
+          ]
+        }
+      ],
+      "reading": [
+        "We must wear a school uniform.",
+        "You mustn't be late for school.",
+        "We can't run in the corridor.",
+        "We must be quiet in the library.",
+        "We have to follow the school rules.",
+        "Raise your hand before you answer the question.",
+        "Children take turns during the game.",
+        "After the lesson everyone tidies up the classroom.",
+        "Pupils must obey the school rules every day."
+      ]
+    },
+    {
+      "id": "8b",
+      "title": "8b. Signs",
+      "words": [
+        {
+          "en": "mobile phone",
+          "transcription": "/ˈməʊbaɪl fəʊn/",
+          "ru": "мобильный телефон"
+        },
+        {
+          "en": "library card",
+          "transcription": "/ˈlaɪbrəri kɑːd/",
+          "ru": "читательский билет"
+        },
+        {
+          "en": "speed limit",
+          "transcription": "/ˈspiːd lɪmɪt/",
+          "ru": "ограничение скорости"
+        },
+        {
+          "en": "seat belt",
+          "transcription": "/ˈsiːt belt/",
+          "ru": "ремень безопасности"
+        },
+        {
+          "en": "helmet",
+          "transcription": "/ˈhelmɪt/",
+          "ru": "шлем"
+        },
+        {
+          "en": "pedestrian",
+          "transcription": "/pəˈdestriən/",
+          "ru": "пешеход"
+        },
+        {
+          "en": "cross the road",
+          "transcription": "/ˌkrɒs ðə ˈrəʊd/",
+          "ru": "переходить дорогу"
+        },
+        {
+          "en": "look both ways",
+          "transcription": "/ˌlʊk bəʊθ ˈweɪz/",
+          "ru": "смотреть по сторонам"
+        },
+        {
+          "en": "litter",
+          "transcription": "/ˈlɪtə/",
+          "ru": "мусор; сорить"
+        },
+        {
+          "en": "queue",
+          "transcription": "/kjuː/",
+          "ru": "очередь; стоять в очереди"
+        },
+        {
+          "en": "sign",
+          "transcription": "/saɪn/",
+          "ru": "знак"
+        },
+        {
+          "en": "notice",
+          "transcription": "/ˈnəʊtɪs/",
+          "ru": "объявление, табличка"
+        },
+        {
+          "en": "warning",
+          "transcription": "/ˈwɔːnɪŋ/",
+          "ru": "предупреждение"
+        },
+        {
+          "en": "silence",
+          "transcription": "/ˈsaɪləns/",
+          "ru": "тишина"
+        },
+        {
+          "en": "No smoking",
+          "transcription": "/nəʊ ˈsməʊkɪŋ/",
+          "ru": "не курить"
+        },
+        {
+          "en": "No parking",
+          "transcription": "/nəʊ ˈpɑːkɪŋ/",
+          "ru": "парковка запрещена"
+        },
+        {
+          "en": "No entry",
+          "transcription": "/nəʊ ˈentri/",
+          "ru": "входа нет"
+        },
+        {
+          "en": "Exit",
+          "transcription": "/ˈeksɪt/",
+          "ru": "выход"
+        },
+        {
+          "en": "Entrance",
+          "transcription": "/ˈentrəns/",
+          "ru": "вход"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "На уроке нельзя пользоваться мобильными телефонами.",
+          "en": "Mobile phones are not allowed in class.",
+          "words": [
+            "Mobile",
+            "phones",
+            "are",
+            "not",
+            "allowed",
+            "in",
+            "class"
+          ]
+        },
+        {
+          "ru": "Переходи дорогу по пешеходному переходу.",
+          "en": "Cross the road at the zebra crossing.",
+          "words": [
+            "Cross",
+            "the",
+            "road",
+            "at",
+            "the",
+            "zebra",
+            "crossing"
+          ]
+        },
+        {
+          "ru": "Водители не должны превышать ограничение скорости.",
+          "en": "Drivers mustn't go over the speed limit.",
+          "words": [
+            "Drivers",
+            "mustn't",
+            "go",
+            "over",
+            "the",
+            "speed",
+            "limit"
+          ]
+        },
+        {
+          "ru": "Посмотри по сторонам, прежде чем переходить дорогу.",
+          "en": "Look both ways before you cross the road.",
+          "words": [
+            "Look",
+            "both",
+            "ways",
+            "before",
+            "you",
+            "cross",
+            "the",
+            "road"
+          ]
+        },
+        {
+          "ru": "Всегда пристёгивайся ремнём безопасности в машине.",
+          "en": "Always wear a seat belt in the car.",
+          "words": [
+            "Always",
+            "wear",
+            "a",
+            "seat",
+            "belt",
+            "in",
+            "the",
+            "car"
+          ]
+        },
+        {
+          "ru": "Нужно надевать шлем, когда катаешься на велосипеде.",
+          "en": "You must wear a helmet when you ride a bike.",
+          "words": [
+            "You",
+            "must",
+            "wear",
+            "a",
+            "helmet",
+            "when",
+            "you",
+            "ride",
+            "a",
+            "bike"
+          ]
+        },
+        {
+          "ru": "Мы можем брать книги домой по читательскому билету.",
+          "en": "We can take books home with a library card.",
+          "words": [
+            "We",
+            "can",
+            "take",
+            "books",
+            "home",
+            "with",
+            "a",
+            "library",
+            "card"
+          ]
+        },
+        {
+          "ru": "Вежливые дети всегда стоят в очереди за обедом.",
+          "en": "Polite children always queue for lunch.",
+          "words": [
+            "Polite",
+            "children",
+            "always",
+            "queue",
+            "for",
+            "lunch"
+          ]
+        },
+        {
+          "ru": "В музее не курить.",
+          "en": "There is no smoking in the museum.",
+          "words": [
+            "There",
+            "is",
+            "no",
+            "smoking",
+            "in",
+            "the",
+            "museum"
+          ]
+        }
+      ],
+      "reading": [
+        "Mobile phones are not allowed in class.",
+        "Cross the road at the zebra crossing.",
+        "Drivers mustn't go over the speed limit.",
+        "Look both ways before you cross the road.",
+        "Always wear a seat belt in the car.",
+        "You must wear a helmet when you ride a bike.",
+        "We can take books home with a library card.",
+        "Polite children always queue for lunch.",
+        "There is no smoking and no entry without a badge."
+      ]
+    },
+    {
+      "id": "8c",
+      "title": "8c. Cultural diversity",
+      "words": [
+        {
+          "en": "noisy",
+          "transcription": "/ˈnɔɪzi/",
+          "ru": "шумный"
+        },
+        {
+          "en": "dangerous",
+          "transcription": "/ˈdeɪndʒərəs/",
+          "ru": "опасный"
+        },
+        {
+          "en": "safety",
+          "transcription": "/ˈseɪfti/",
+          "ru": "безопасность"
+        },
+        {
+          "en": "polite",
+          "transcription": "/pəˈlaɪt/",
+          "ru": "вежливый"
+        },
+        {
+          "en": "behave",
+          "transcription": "/bɪˈheɪv/",
+          "ru": "вести себя"
+        },
+        {
+          "en": "manners",
+          "transcription": "/ˈmænəz/",
+          "ru": "манеры"
+        },
+        {
+          "en": "rude",
+          "transcription": "/ruːd/",
+          "ru": "грубый"
+        },
+        {
+          "en": "respectful",
+          "transcription": "/rɪˈspektfl/",
+          "ru": "почтительный"
+        },
+        {
+          "en": "responsible",
+          "transcription": "/rɪˈspɒnsəbl/",
+          "ru": "ответственный"
+        },
+        {
+          "en": "careful",
+          "transcription": "/ˈkeəfl/",
+          "ru": "осторожный"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Вежливые дети ведут себя хорошо.",
+          "en": "Polite children behave well.",
+          "words": [
+            "Polite",
+            "children",
+            "behave",
+            "well"
+          ]
+        },
+        {
+          "ru": "Вежливые дети имеют хорошие манеры.",
+          "en": "Polite children have good manners.",
+          "words": [
+            "Polite",
+            "children",
+            "have",
+            "good",
+            "manners"
+          ]
+        },
+        {
+          "ru": "Ответственный ученик всегда почтителен и осторожен.",
+          "en": "A responsible pupil is always respectful and careful.",
+          "words": [
+            "A",
+            "responsible",
+            "pupil",
+            "is",
+            "always",
+            "respectful",
+            "and",
+            "careful"
+          ]
+        },
+        {
+          "ru": "Бегать в коридоре опасно.",
+          "en": "Running in the corridor is dangerous.",
+          "words": [
+            "Running",
+            "in",
+            "the",
+            "corridor",
+            "is",
+            "dangerous"
+          ]
+        },
+        {
+          "ru": "Соблюдайте безопасность на дороге.",
+          "en": "Follow safety on the road.",
+          "words": [
+            "Follow",
+            "safety",
+            "on",
+            "the",
+            "road"
+          ]
+        }
+      ],
+      "reading": [
+        "Polite children behave well and have good manners.",
+        "A responsible pupil is always respectful and careful.",
+        "Running in the corridor is dangerous.",
+        "Follow safety rules on the road.",
+        "A responsible pupil is always respectful and careful."
+      ]
+    },
+    {
+      "id": "8d",
+      "title": "8d. Culture Corner",
+      "words": [
+        {
+          "en": "punish",
+          "transcription": "/ˈpʌnɪʃ/",
+          "ru": "наказывать"
+        },
+        {
+          "en": "fine",
+          "transcription": "/faɪn/",
+          "ru": "штраф"
+        },
+        {
+          "en": "ID card",
+          "transcription": "/ˌaɪ ˈdiː kɑːd/",
+          "ru": "удостоверение личности"
+        },
+        {
+          "en": "passport",
+          "transcription": "/ˈpɑːspɔːt/",
+          "ru": "паспорт"
+        },
+        {
+          "en": "should",
+          "transcription": "/ʃʊd/",
+          "ru": "следует",
+          "noSpeak": true
+        },
+        {
+          "en": "shouldn't",
+          "transcription": "/ˈʃʊdnt/",
+          "ru": "не следует",
+          "noSpeak": true
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "За нарушение бывает штраф.",
+          "en": "There is a fine for breaking the rule.",
+          "words": [
+            "There",
+            "is",
+            "a",
+            "fine",
+            "for",
+            "breaking",
+            "the",
+            "rule"
+          ]
+        },
+        {
+          "ru": "Покажи паспорт на входе.",
+          "en": "Show your passport at the entrance.",
+          "words": [
+            "Show",
+            "your",
+            "passport",
+            "at",
+            "the",
+            "entrance"
+          ]
+        },
+        {
+          "ru": "Школьная форма обязательна.",
+          "en": "The school uniform is compulsory.",
+          "words": [
+            "The",
+            "school",
+            "uniform",
+            "is",
+            "compulsory"
+          ]
+        },
+        {
+          "ru": "Ты не должен быть грубым с учителями.",
+          "en": "You shouldn't be rude to teachers.",
+          "words": [
+            "You",
+            "shouldn't",
+            "be",
+            "rude",
+            "to",
+            "teachers"
+          ]
+        }
+      ],
+      "reading": [
+        "There is a fine for parking in a no parking zone.",
+        "Show your ID card or passport at the entrance.",
+        "The school uniform is compulsory for all pupils.",
+        "You shouldn't be rude to teachers or classmates."
+      ]
+    }
+  ]
+}

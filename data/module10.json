@@ -1,0 +1,942 @@
+{
+  "id": "module10",
+  "title": "Модуль 10. Holiday Time",
+  "color": "#5B8C6A",
+  "sections": [
+    {
+      "id": "10a",
+      "title": "10a. Holiday plans",
+      "words": [
+        {
+          "en": "holiday",
+          "transcription": "/ˈhɒlədeɪ/",
+          "ru": "праздник, каникулы"
+        },
+        {
+          "en": "trip",
+          "transcription": "/trɪp/",
+          "ru": "поездка"
+        },
+        {
+          "en": "travel",
+          "transcription": "/ˈtrævl/",
+          "ru": "путешествовать"
+        },
+        {
+          "en": "visit",
+          "transcription": "/ˈvɪzɪt/",
+          "ru": "посещать"
+        },
+        {
+          "en": "plan",
+          "transcription": "/plæn/",
+          "ru": "план, планировать"
+        },
+        {
+          "en": "arrive",
+          "transcription": "/əˈraɪv/",
+          "ru": "прибывать"
+        },
+        {
+          "en": "depart",
+          "transcription": "/dɪˈpɑːt/",
+          "ru": "отправляться"
+        },
+        {
+          "en": "luggage",
+          "transcription": "/ˈlʌɡɪdʒ/",
+          "ru": "багаж"
+        },
+        {
+          "en": "suitcase",
+          "transcription": "/ˈsuːtkeɪs/",
+          "ru": "чемодан"
+        },
+        {
+          "en": "ticket",
+          "transcription": "/ˈtɪkɪt/",
+          "ru": "билет"
+        },
+        {
+          "en": "passport",
+          "transcription": "/ˈpɑːspɔːt/",
+          "ru": "паспорт"
+        },
+        {
+          "en": "camera",
+          "transcription": "/ˈkæmrə/",
+          "ru": "фотоапарат"
+        },
+        {
+          "en": "map",
+          "transcription": "/mæp/",
+          "ru": "карта"
+        },
+        {
+          "en": "tourist",
+          "transcription": "/ˈtʊərɪst/",
+          "ru": "турист"
+        },
+        {
+          "en": "sightseeing",
+          "transcription": "/ˈsaɪtsiːɪŋ/",
+          "ru": "осмотр достопримечательностей"
+        },
+        {
+          "en": "abroad",
+          "transcription": "/əˈbrɔːd/",
+          "ru": "за границей"
+        },
+        {
+          "en": "souvenir",
+          "transcription": "/ˌsuːvəˈnɪə/",
+          "ru": "сувенир"
+        },
+        {
+          "en": "go on holiday",
+          "transcription": "/ɡəʊ ɒn ˈhɒlədeɪ/",
+          "ru": "уйти на каникулы"
+        },
+        {
+          "en": "go abroad",
+          "transcription": "/ɡəʊ əˈbrɔːd/",
+          "ru": "поехать за границу"
+        },
+        {
+          "en": "book a ticket",
+          "transcription": "/bʊk ə ˈtɪkɪt/",
+          "ru": "забронировать билет"
+        },
+        {
+          "en": "pack a bag",
+          "transcription": "/pæk ə bæɡ/",
+          "ru": "собрать сумку"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Этим летом мы едем за границу.",
+          "en": "This summer we are going abroad.",
+          "words": [
+            "This",
+            "summer",
+            "we",
+            "are",
+            "going",
+            "abroad"
+          ]
+        },
+        {
+          "ru": "Я собираю чемодан и беру паспорт.",
+          "en": "I pack my suitcase and take my passport.",
+          "words": [
+            "I",
+            "pack",
+            "my",
+            "suitcase",
+            "and",
+            "take",
+            "my",
+            "passport"
+          ]
+        },
+        {
+          "ru": "Мы забронировали билеты на поезд.",
+          "en": "We booked tickets for the train.",
+          "words": [
+            "We",
+            "booked",
+            "tickets",
+            "for",
+            "the",
+            "train"
+          ]
+        },
+        {
+          "ru": "Турист смотрит карту и идёт на экскурсию.",
+          "en": "The tourist looks at the map and goes sightseeing.",
+          "words": [
+            "The",
+            "tourist",
+            "looks",
+            "at",
+            "the",
+            "map",
+            "and",
+            "goes",
+            "sightseeing"
+          ]
+        },
+        {
+          "ru": "Мы посетим музей и купим сувениры.",
+          "en": "We will visit a museum and buy souvenirs.",
+          "words": [
+            "We",
+            "will",
+            "visit",
+            "a",
+            "museum",
+            "and",
+            "buy",
+            "souvenirs"
+          ]
+        },
+        {
+          "ru": "Я люблю путешествовать и делать фото.",
+          "en": "I love travelling and taking photos.",
+          "words": [
+            "I",
+            "love",
+            "travelling",
+            "and",
+            "taking",
+            "photos"
+          ]
+        },
+        {
+          "ru": "Поезд прибывает в полдень.",
+          "en": "The train arrives at midday.",
+          "words": [
+            "The",
+            "train",
+            "arrives",
+            "at",
+            "midday"
+          ]
+        },
+        {
+          "ru": "Мой план — поехать в Лондон на каникулы.",
+          "en": "My plan is to go to London on holiday.",
+          "words": [
+            "My",
+            "plan",
+            "is",
+            "to",
+            "go",
+            "to",
+            "London",
+            "on",
+            "holiday"
+          ]
+        }
+      ],
+      "reading": [
+        "This summer we are going abroad.",
+        "I pack my suitcase and take my passport.",
+        "We booked tickets for the train.",
+        "The tourist looks at the map and goes sightseeing.",
+        "We will visit a museum and buy souvenirs.",
+        "I love travelling and taking photos with my camera.",
+        "The train arrives at midday.",
+        "My plan is to go to London on holiday."
+      ]
+    },
+    {
+      "id": "10b",
+      "title": "10b. Clothes",
+      "words": [
+        {
+          "en": "sweater",
+          "transcription": "/ˈswetə/",
+          "ru": "свитер"
+        },
+        {
+          "en": "scarf",
+          "transcription": "/skɑːf/",
+          "ru": "шарф"
+        },
+        {
+          "en": "gloves",
+          "transcription": "/ɡlʌvz/",
+          "ru": "перчатки"
+        },
+        {
+          "en": "coat",
+          "transcription": "/kəʊt/",
+          "ru": "пальто"
+        },
+        {
+          "en": "T-shirt",
+          "transcription": "/ˈtiːʃɜːt/",
+          "ru": "футболка"
+        },
+        {
+          "en": "skirt",
+          "transcription": "/skɜːt/",
+          "ru": "юбка"
+        },
+        {
+          "en": "jacket",
+          "transcription": "/ˈdʒækɪt/",
+          "ru": "куртка"
+        },
+        {
+          "en": "hat",
+          "transcription": "/hæt/",
+          "ru": "шапка"
+        },
+        {
+          "en": "raincoat",
+          "transcription": "/ˈreɪnkəʊt/",
+          "ru": "плащ"
+        },
+        {
+          "en": "shoes",
+          "transcription": "/ʃuːz/",
+          "ru": "туфли"
+        },
+        {
+          "en": "boots",
+          "transcription": "/buːts/",
+          "ru": "ботинки, сапоги"
+        },
+        {
+          "en": "trainers",
+          "transcription": "/ˈtreɪnəz/",
+          "ru": "кроссовки"
+        },
+        {
+          "en": "socks",
+          "transcription": "/sɒks/",
+          "ru": "носки"
+        },
+        {
+          "en": "jeans",
+          "transcription": "/dʒiːnz/",
+          "ru": "джинсы"
+        },
+        {
+          "en": "trousers",
+          "transcription": "/ˈtraʊzəz/",
+          "ru": "брюки"
+        },
+        {
+          "en": "shorts",
+          "transcription": "/ʃɔːts/",
+          "ru": "шорты"
+        },
+        {
+          "en": "dress",
+          "transcription": "/dres/",
+          "ru": "платье"
+        },
+        {
+          "en": "shirt",
+          "transcription": "/ʃɜːt/",
+          "ru": "рубашка"
+        },
+        {
+          "en": "blouse",
+          "transcription": "/blaʊz/",
+          "ru": "блузка"
+        },
+        {
+          "en": "tie",
+          "transcription": "/taɪ/",
+          "ru": "галстук"
+        },
+        {
+          "en": "belt",
+          "transcription": "/belt/",
+          "ru": "ремень"
+        },
+        {
+          "en": "wear",
+          "transcription": "/weə/",
+          "ru": "носить (одежду)"
+        },
+        {
+          "en": "put on",
+          "transcription": "/pʊt ɒn/",
+          "ru": "надевать"
+        },
+        {
+          "en": "take off",
+          "transcription": "/teɪk ɒf/",
+          "ru": "снимать"
+        },
+        {
+          "en": "try on",
+          "transcription": "/traɪ ɒn/",
+          "ru": "примерять"
+        },
+        {
+          "en": "fit",
+          "transcription": "/fɪt/",
+          "ru": "быть впору"
+        },
+        {
+          "en": "size",
+          "transcription": "/saɪz/",
+          "ru": "размер"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Я ношу свитер и джинсы зимой.",
+          "en": "I wear a sweater and jeans in winter.",
+          "words": [
+            "I",
+            "wear",
+            "a",
+            "sweater",
+            "and",
+            "jeans",
+            "in",
+            "winter"
+          ]
+        },
+        {
+          "ru": "Надень куртку и шарф — на улице холодно.",
+          "en": "Put on a jacket and a scarf, it is cold.",
+          "words": [
+            "Put",
+            "on",
+            "a",
+            "jacket",
+            "and",
+            "a",
+            "scarf,",
+            "it",
+            "is",
+            "cold"
+          ]
+        },
+        {
+          "ru": "Сними ботинки и надень тапочки.",
+          "en": "Take off your boots and put on slippers.",
+          "words": [
+            "Take",
+            "off",
+            "your",
+            "boots",
+            "and",
+            "put",
+            "on",
+            "slippers"
+          ]
+        },
+        {
+          "ru": "Я примеряю синее платье.",
+          "en": "I am trying on a blue dress.",
+          "words": [
+            "I",
+            "am",
+            "trying",
+            "on",
+            "a",
+            "blue",
+            "dress"
+          ]
+        },
+        {
+          "ru": "Этот размер мне впору.",
+          "en": "This size fits me.",
+          "words": [
+            "This",
+            "size",
+            "fits",
+            "me"
+          ]
+        },
+        {
+          "ru": "Летом я ношу шорты и футболку.",
+          "en": "In summer I wear shorts and a T-shirt.",
+          "words": [
+            "In",
+            "summer",
+            "I",
+            "wear",
+            "shorts",
+            "and",
+            "a",
+            "T-shirt"
+          ]
+        },
+        {
+          "ru": "Моя сестра купила новую юбку и блузку.",
+          "en": "My sister bought a new skirt and a blouse.",
+          "words": [
+            "My",
+            "sister",
+            "bought",
+            "a",
+            "new",
+            "skirt",
+            "and",
+            "a",
+            "blouse"
+          ]
+        },
+        {
+          "ru": "Не забудь зонтик и плащ — идёт дождь.",
+          "en": "Do not forget your umbrella and raincoat, it is raining.",
+          "words": [
+            "Do",
+            "not",
+            "forget",
+            "your",
+            "umbrella",
+            "and",
+            "raincoat,",
+            "it",
+            "is",
+            "raining"
+          ]
+        }
+      ],
+      "reading": [
+        "I wear a sweater and jeans in winter.",
+        "Put on a jacket and a scarf, it is cold outside.",
+        "Take off your boots and put on your trainers.",
+        "I am trying on a blue dress and it fits me.",
+        "In summer I wear shorts and a T-shirt.",
+        "My sister bought a new skirt and a blouse.",
+        "Do not forget your umbrella and raincoat in the rain.",
+        "He is wearing a white shirt and a blue tie."
+      ]
+    },
+    {
+      "id": "10c",
+      "title": "10c. What's the weather like?",
+      "words": [
+        {
+          "en": "weather",
+          "transcription": "/ˈweðə/",
+          "ru": "погода"
+        },
+        {
+          "en": "sun",
+          "transcription": "/sʌn/",
+          "ru": "солнце"
+        },
+        {
+          "en": "sunny",
+          "transcription": "/ˈsʌni/",
+          "ru": "солнечный"
+        },
+        {
+          "en": "rain",
+          "transcription": "/reɪn/",
+          "ru": "дождь"
+        },
+        {
+          "en": "rainy",
+          "transcription": "/ˈreɪni/",
+          "ru": "дождливый"
+        },
+        {
+          "en": "snow",
+          "transcription": "/snəʊ/",
+          "ru": "снег"
+        },
+        {
+          "en": "snowy",
+          "transcription": "/ˈsnəʊi/",
+          "ru": "снежный"
+        },
+        {
+          "en": "wind",
+          "transcription": "/wɪnd/",
+          "ru": "ветер"
+        },
+        {
+          "en": "windy",
+          "transcription": "/ˈwɪndi/",
+          "ru": "ветреный"
+        },
+        {
+          "en": "cloud",
+          "transcription": "/klaʊd/",
+          "ru": "облако"
+        },
+        {
+          "en": "cloudy",
+          "transcription": "/ˈklaʊdi/",
+          "ru": "облачный"
+        },
+        {
+          "en": "fog",
+          "transcription": "/fɒɡ/",
+          "ru": "туман"
+        },
+        {
+          "en": "foggy",
+          "transcription": "/ˈfɒɡi/",
+          "ru": "туманный"
+        },
+        {
+          "en": "storm",
+          "transcription": "/stɔːm/",
+          "ru": "гроза, буря"
+        },
+        {
+          "en": "stormy",
+          "transcription": "/ˈstɔːmi/",
+          "ru": "бурный"
+        },
+        {
+          "en": "hot",
+          "transcription": "/hɒt/",
+          "ru": "жаркий"
+        },
+        {
+          "en": "cold",
+          "transcription": "/kəʊld/",
+          "ru": "холодный"
+        },
+        {
+          "en": "warm",
+          "transcription": "/wɔːm/",
+          "ru": "тёплый"
+        },
+        {
+          "en": "cool",
+          "transcription": "/kuːl/",
+          "ru": "прохладный"
+        },
+        {
+          "en": "wet",
+          "transcription": "/wet/",
+          "ru": "мокрый"
+        },
+        {
+          "en": "dry",
+          "transcription": "/draɪ/",
+          "ru": "сухой"
+        },
+        {
+          "en": "temperature",
+          "transcription": "/ˈtemprətʃə/",
+          "ru": "температура"
+        },
+        {
+          "en": "season",
+          "transcription": "/ˈsiːzn/",
+          "ru": "время года"
+        },
+        {
+          "en": "forecast",
+          "transcription": "/ˈfɔːkɑːst/",
+          "ru": "прогноз (погоды)"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Сегодня солнечно и тепло.",
+          "en": "Today it is sunny and warm.",
+          "words": [
+            "Today",
+            "it",
+            "is",
+            "sunny",
+            "and",
+            "warm"
+          ]
+        },
+        {
+          "ru": "Зимой идёт снег и холодно.",
+          "en": "In winter it snows and it is cold.",
+          "words": [
+            "In",
+            "winter",
+            "it",
+            "snows",
+            "and",
+            "it",
+            "is",
+            "cold"
+          ]
+        },
+        {
+          "ru": "Осенью часто дождь и ветер.",
+          "en": "In autumn it is often rainy and windy.",
+          "words": [
+            "In",
+            "autumn",
+            "it",
+            "is",
+            "often",
+            "rainy",
+            "and",
+            "windy"
+          ]
+        },
+        {
+          "ru": "На улице туман и прохладно.",
+          "en": "It is foggy and cool outside.",
+          "words": [
+            "It",
+            "is",
+            "foggy",
+            "and",
+            "cool",
+            "outside"
+          ]
+        },
+        {
+          "ru": "Летом жарко и сухо.",
+          "en": "In summer it is hot and dry.",
+          "words": [
+            "In",
+            "summer",
+            "it",
+            "is",
+            "hot",
+            "and",
+            "dry"
+          ]
+        },
+        {
+          "ru": "Какая погода в Лондоне?",
+          "en": "What is the weather like in London?",
+          "words": [
+            "What",
+            "is",
+            "the",
+            "weather",
+            "like",
+            "in",
+            "London"
+          ]
+        },
+        {
+          "ru": "Прогноз обещает грозу.",
+          "en": "The forecast says there will be a storm.",
+          "words": [
+            "The",
+            "forecast",
+            "says",
+            "there",
+            "will",
+            "be",
+            "a",
+            "storm"
+          ]
+        },
+        {
+          "ru": "Температура сегодня двадцать градусов.",
+          "en": "The temperature is twenty degrees today.",
+          "words": [
+            "The",
+            "temperature",
+            "is",
+            "twenty",
+            "degrees",
+            "today"
+          ]
+        }
+      ],
+      "reading": [
+        "Today it is sunny and warm.",
+        "In winter it snows and it is cold.",
+        "In autumn it is often rainy and windy.",
+        "It is foggy and cool outside today.",
+        "In summer it is hot and dry.",
+        "What is the weather like in London?",
+        "The forecast says there will be a storm.",
+        "The temperature is twenty degrees today."
+      ]
+    },
+    {
+      "id": "10d",
+      "title": "10d. Culture Corner",
+      "words": [
+        {
+          "en": "beach",
+          "transcription": "/biːtʃ/",
+          "ru": "пляж"
+        },
+        {
+          "en": "seaside",
+          "transcription": "/ˈsiːsaɪd/",
+          "ru": "море, побережье"
+        },
+        {
+          "en": "mountain",
+          "transcription": "/ˈmaʊntən/",
+          "ru": "гора"
+        },
+        {
+          "en": "camp",
+          "transcription": "/kæmp/",
+          "ru": "лагерь"
+        },
+        {
+          "en": "tent",
+          "transcription": "/tent/",
+          "ru": "палатка"
+        },
+        {
+          "en": "hotel",
+          "transcription": "/həʊˈtel/",
+          "ru": "гостиница"
+        },
+        {
+          "en": "resort",
+          "transcription": "/rɪˈzɔːt/",
+          "ru": "курорт"
+        },
+        {
+          "en": "island",
+          "transcription": "/ˈaɪlənd/",
+          "ru": "остров"
+        },
+        {
+          "en": "coast",
+          "transcription": "/kəʊst/",
+          "ru": "берег, побережье"
+        },
+        {
+          "en": "nature",
+          "transcription": "/ˈneɪtʃə/",
+          "ru": "природа"
+        },
+        {
+          "en": "forest",
+          "transcription": "/ˈfɒrɪst/",
+          "ru": "лес"
+        },
+        {
+          "en": "view",
+          "transcription": "/vjuː/",
+          "ru": "вид"
+        },
+        {
+          "en": "enjoy",
+          "transcription": "/ɪnˈdʒɔɪ/",
+          "ru": "наслаждаться"
+        },
+        {
+          "en": "relax",
+          "transcription": "/rɪˈlæks/",
+          "ru": "отдыхать, расслабляться"
+        },
+        {
+          "en": "adventure",
+          "transcription": "/ədˈventʃə/",
+          "ru": "приключение"
+        },
+        {
+          "en": "memorable",
+          "transcription": "/ˈmemərəbl/",
+          "ru": "запоминающийся"
+        },
+        {
+          "en": "unforgettable",
+          "transcription": "/ˌʌnfəˈɡetəbl/",
+          "ru": "незабываемый"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Мы отдыхаем на пляже у моря.",
+          "en": "We relax on the beach at the seaside.",
+          "words": [
+            "We",
+            "relax",
+            "on",
+            "the",
+            "beach",
+            "at",
+            "the",
+            "seaside"
+          ]
+        },
+        {
+          "ru": "Летом мы живём в палатке в лесу.",
+          "en": "In summer we live in a tent in the forest.",
+          "words": [
+            "In",
+            "summer",
+            "we",
+            "live",
+            "in",
+            "a",
+            "tent",
+            "in",
+            "the",
+            "forest"
+          ]
+        },
+        {
+          "ru": "Из окна отеля открывается красивый вид.",
+          "en": "There is a beautiful view from the hotel window.",
+          "words": [
+            "There",
+            "is",
+            "a",
+            "beautiful",
+            "view",
+            "from",
+            "the",
+            "hotel",
+            "window"
+          ]
+        },
+        {
+          "ru": "Мы наслаждаемся природой в горах.",
+          "en": "We enjoy nature in the mountains.",
+          "words": [
+            "We",
+            "enjoy",
+            "nature",
+            "in",
+            "the",
+            "mountains"
+          ]
+        },
+        {
+          "ru": "Это был незабываемый отдых на острове.",
+          "en": "It was an unforgettable holiday on the island.",
+          "words": [
+            "It",
+            "was",
+            "an",
+            "unforgettable",
+            "holiday",
+            "on",
+            "the",
+            "island"
+          ]
+        },
+        {
+          "ru": "Дети любят приключения в летнем лагере.",
+          "en": "Children love adventures at the summer camp.",
+          "words": [
+            "Children",
+            "love",
+            "adventures",
+            "at",
+            "the",
+            "summer",
+            "camp"
+          ]
+        },
+        {
+          "ru": "Мы поехали на курорт у побережья.",
+          "en": "We went to a resort on the coast.",
+          "words": [
+            "We",
+            "went",
+            "to",
+            "a",
+            "resort",
+            "on",
+            "the",
+            "coast"
+          ]
+        }
+      ],
+      "reading": [
+        "We relax on the beach at the seaside.",
+        "In summer we live in a tent in the forest.",
+        "There is a beautiful view from the hotel window.",
+        "We enjoy nature in the mountains.",
+        "It was an unforgettable holiday on the island.",
+        "Children love adventures at the summer camp.",
+        "We went to a resort on the coast for a week."
+      ]
+    }
+  ]
+}

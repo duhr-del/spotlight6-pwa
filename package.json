@@ -1,0 +1,13 @@
+{
+  "name": "spotlight6-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Игровой тренажёр по английскому языку для 6 класса (Spotlight 6). Статическое PWA без сборки.",
+  "type": "module",
+  "scripts": {
+    "start": "python -m http.server 5173",
+    "test": "node scripts/test-match.mjs",
+    "validate": "python scripts/validate_content.py",
+    "icons": "python scripts/make_icons.py"
+  }
+}

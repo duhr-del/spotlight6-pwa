@@ -1,0 +1,675 @@
+{
+  "id": "module3",
+  "title": "Модуль 3. Getting around",
+  "color": "#C0873E",
+  "sections": [
+    {
+      "id": "3a",
+      "title": "3a. Road safety",
+      "words": [
+        {
+          "en": "bus",
+          "transcription": "/bʌs/",
+          "ru": "автобус"
+        },
+        {
+          "en": "train",
+          "transcription": "/treɪn/",
+          "ru": "поезд"
+        },
+        {
+          "en": "plane",
+          "transcription": "/pleɪn/",
+          "ru": "самолёт"
+        },
+        {
+          "en": "car",
+          "transcription": "/kɑː/",
+          "ru": "машина, автомобиль"
+        },
+        {
+          "en": "bike",
+          "transcription": "/baɪk/",
+          "ru": "велосипед"
+        },
+        {
+          "en": "motorbike",
+          "transcription": "/ˈməʊtəbaɪk/",
+          "ru": "мотоцикл"
+        },
+        {
+          "en": "underground",
+          "transcription": "/ˈʌndəɡraʊnd/",
+          "ru": "метро"
+        },
+        {
+          "en": "taxi",
+          "transcription": "/ˈtæksi/",
+          "ru": "такси"
+        },
+        {
+          "en": "tram",
+          "transcription": "/træm/",
+          "ru": "трамвай"
+        },
+        {
+          "en": "boat",
+          "transcription": "/bəʊt/",
+          "ru": "лодка"
+        },
+        {
+          "en": "ship",
+          "transcription": "/ʃɪp/",
+          "ru": "корабль"
+        },
+        {
+          "en": "helicopter",
+          "transcription": "/ˈhelɪkɒptə/",
+          "ru": "вертолёт"
+        },
+        {
+          "en": "lorry",
+          "transcription": "/ˈlɒri/",
+          "ru": "грузовик"
+        },
+        {
+          "en": "van",
+          "transcription": "/væn/",
+          "ru": "фургон"
+        },
+        {
+          "en": "coach",
+          "transcription": "/kəʊtʃ/",
+          "ru": "междугородний автобус"
+        },
+        {
+          "en": "ferry",
+          "transcription": "/ˈferi/",
+          "ru": "паром"
+        },
+        {
+          "en": "bus stop",
+          "transcription": "/ˈbʌs stɒp/",
+          "ru": "автобусная остановка"
+        },
+        {
+          "en": "railway station",
+          "transcription": "/ˈreɪlweɪ ˈsteɪʃn/",
+          "ru": "железнодорожный вокзал"
+        },
+        {
+          "en": "airport",
+          "transcription": "/ˈeəpɔːt/",
+          "ru": "аэропорт"
+        },
+        {
+          "en": "ticket",
+          "transcription": "/ˈtɪkɪt/",
+          "ru": "билет"
+        },
+        {
+          "en": "seat belt",
+          "transcription": "/ˈsiːt belt/",
+          "ru": "ремень безопасности"
+        },
+        {
+          "en": "helmet",
+          "transcription": "/ˈhelmɪt/",
+          "ru": "шлем"
+        },
+        {
+          "en": "car park",
+          "transcription": "/ˈkɑː pɑːk/",
+          "ru": "парковка"
+        },
+        {
+          "en": "petrol station",
+          "transcription": "/ˈpetrəl ˌsteɪʃn/",
+          "ru": "заправка"
+        },
+        {
+          "en": "fare",
+          "transcription": "/feə/",
+          "ru": "плата за проезд"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Я хожу в школу пешком.",
+          "en": "I go to school on foot.",
+          "words": [
+            "I",
+            "go",
+            "to",
+            "school",
+            "on",
+            "foot"
+          ]
+        },
+        {
+          "ru": "Мы едем в Лондон на поезде.",
+          "en": "We go to London by train.",
+          "words": [
+            "We",
+            "go",
+            "to",
+            "London",
+            "by",
+            "train"
+          ]
+        },
+        {
+          "ru": "Надень шлем и пристегни ремень безопасности.",
+          "en": "Put on your helmet and fasten your seat belt.",
+          "words": [
+            "Put",
+            "on",
+            "your",
+            "helmet",
+            "and",
+            "fasten",
+            "your",
+            "seat",
+            "belt"
+          ]
+        },
+        {
+          "ru": "Грузовик едет по мосту.",
+          "en": "The lorry is going across the bridge.",
+          "words": [
+            "The",
+            "lorry",
+            "is",
+            "going",
+            "across",
+            "the",
+            "bridge"
+          ]
+        },
+        {
+          "ru": "Паром переплывает реку.",
+          "en": "The ferry is crossing the river.",
+          "words": [
+            "The",
+            "ferry",
+            "is",
+            "crossing",
+            "the",
+            "river"
+          ]
+        },
+        {
+          "ru": "Автобусная остановка находится между школой и магазином.",
+          "en": "The bus stop is between the school and the shop.",
+          "words": [
+            "The",
+            "bus",
+            "stop",
+            "is",
+            "between",
+            "the",
+            "school",
+            "and",
+            "the",
+            "shop"
+          ]
+        },
+        {
+          "ru": "Мы едем в Лондон на междугороднем автобусе.",
+          "en": "We go to London by coach.",
+          "words": [
+            "We",
+            "go",
+            "to",
+            "London",
+            "by",
+            "coach"
+          ]
+        }
+      ],
+      "reading": [
+        "I go to school on foot.",
+        "We go to London by train.",
+        "Put on your helmet and fasten your seat belt.",
+        "The lorry is going across the bridge.",
+        "The ferry is crossing the river.",
+        "The bus stop is between the school and the shop.",
+        "We go to London by coach."
+      ]
+    },
+    {
+      "id": "3b",
+      "title": "3b. On the move",
+      "words": [
+        {
+          "en": "traffic lights",
+          "transcription": "/ˈtræfɪk laɪts/",
+          "ru": "светофор"
+        },
+        {
+          "en": "crossroads",
+          "transcription": "/ˈkrɒsrəʊdz/",
+          "ru": "перекрёсток"
+        },
+        {
+          "en": "zebra crossing",
+          "transcription": "/ˌzebrə ˈkrɒsɪŋ/",
+          "ru": "пешеходный переход"
+        },
+        {
+          "en": "pavement",
+          "transcription": "/ˈpeɪvmənt/",
+          "ru": "тротуар"
+        },
+        {
+          "en": "turn left",
+          "transcription": "/ˌtɜːn ˈleft/",
+          "ru": "повернуть налево"
+        },
+        {
+          "en": "turn right",
+          "transcription": "/ˌtɜːn ˈraɪt/",
+          "ru": "повернуть направо"
+        },
+        {
+          "en": "go straight",
+          "transcription": "/ˌɡəʊ ˈstreɪt/",
+          "ru": "идти прямо"
+        },
+        {
+          "en": "opposite",
+          "transcription": "/ˈɒpəzɪt/",
+          "ru": "напротив"
+        },
+        {
+          "en": "next to",
+          "transcription": "/ˈnekst tə/",
+          "ru": "рядом с"
+        },
+        {
+          "en": "between",
+          "transcription": "/bɪˈtwiːn/",
+          "ru": "между"
+        },
+        {
+          "en": "corner",
+          "transcription": "/ˈkɔːnə/",
+          "ru": "угол (улицы)"
+        },
+        {
+          "en": "road sign",
+          "transcription": "/ˈrəʊd saɪn/",
+          "ru": "дорожный знак"
+        },
+        {
+          "en": "speed limit",
+          "transcription": "/ˈspiːd lɪmɪt/",
+          "ru": "ограничение скорости"
+        },
+        {
+          "en": "go past",
+          "transcription": "/ɡəʊ pɑːst/",
+          "ru": "пройти мимо"
+        },
+        {
+          "en": "go along",
+          "transcription": "/ɡəʊ əˈlɒŋ/",
+          "ru": "идти вдоль"
+        },
+        {
+          "en": "go across",
+          "transcription": "/ɡəʊ əˈkrɒs/",
+          "ru": "перейти через"
+        },
+        {
+          "en": "in front of",
+          "transcription": "/ɪn frʌnt əv/",
+          "ru": "перед"
+        },
+        {
+          "en": "behind",
+          "transcription": "/bɪˈhaɪnd/",
+          "ru": "позади"
+        },
+        {
+          "en": "above",
+          "transcription": "/əˈbʌv/",
+          "ru": "над"
+        },
+        {
+          "en": "below",
+          "transcription": "/bɪˈləʊ/",
+          "ru": "под"
+        },
+        {
+          "en": "bridge",
+          "transcription": "/brɪdʒ/",
+          "ru": "мост"
+        },
+        {
+          "en": "tunnel",
+          "transcription": "/ˈtʌnl/",
+          "ru": "тоннель"
+        },
+        {
+          "en": "roundabout",
+          "transcription": "/ˈraʊndəbaʊt/",
+          "ru": "развязка, круговое движение"
+        },
+        {
+          "en": "mile",
+          "transcription": "/maɪl/",
+          "ru": "миля"
+        },
+        {
+          "en": "journey",
+          "transcription": "/ˈdʒɜːni/",
+          "ru": "поездка, путешествие"
+        },
+        {
+          "en": "trip",
+          "transcription": "/trɪp/",
+          "ru": "поездка"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Поверни налево на перекрёстке.",
+          "en": "Turn left at the crossroads.",
+          "words": [
+            "Turn",
+            "left",
+            "at",
+            "the",
+            "crossroads"
+          ]
+        },
+        {
+          "ru": "Иди прямо, а потом поверни направо.",
+          "en": "Go straight and then turn right.",
+          "words": [
+            "Go",
+            "straight",
+            "and",
+            "then",
+            "turn",
+            "right"
+          ]
+        },
+        {
+          "ru": "Светофор находится на углу.",
+          "en": "The traffic lights are on the corner.",
+          "words": [
+            "The",
+            "traffic",
+            "lights",
+            "are",
+            "on",
+            "the",
+            "corner"
+          ]
+        },
+        {
+          "ru": "Посмотри налево и направо у пешеходного перехода.",
+          "en": "Look left and right at the zebra crossing.",
+          "words": [
+            "Look",
+            "left",
+            "and",
+            "right",
+            "at",
+            "the",
+            "zebra",
+            "crossing"
+          ]
+        },
+        {
+          "ru": "Аэропорт находится напротив железнодорожного вокзала.",
+          "en": "The airport is opposite the railway station.",
+          "words": [
+            "The",
+            "airport",
+            "is",
+            "opposite",
+            "the",
+            "railway",
+            "station"
+          ]
+        },
+        {
+          "ru": "Заправка находится за мостом.",
+          "en": "The petrol station is behind the bridge.",
+          "words": [
+            "The",
+            "petrol",
+            "station",
+            "is",
+            "behind",
+            "the",
+            "bridge"
+          ]
+        },
+        {
+          "ru": "Мост над рекой.",
+          "en": "The bridge is above the river.",
+          "words": [
+            "The",
+            "bridge",
+            "is",
+            "above",
+            "the",
+            "river"
+          ]
+        },
+        {
+          "ru": "Лодка под мостом.",
+          "en": "The boat is below the bridge.",
+          "words": [
+            "The",
+            "boat",
+            "is",
+            "below",
+            "the",
+            "bridge"
+          ]
+        },
+        {
+          "ru": "Пройдите вдоль улицы и поверните направо.",
+          "en": "Go along the street and turn right.",
+          "words": [
+            "Go",
+            "along",
+            "the",
+            "street",
+            "and",
+            "turn",
+            "right"
+          ]
+        },
+        {
+          "ru": "Магазин перед школой.",
+          "en": "The shop is in front of the school.",
+          "words": [
+            "The",
+            "shop",
+            "is",
+            "in",
+            "front",
+            "of",
+            "the",
+            "school"
+          ]
+        }
+      ],
+      "reading": [
+        "Turn left at the crossroads.",
+        "Go straight and then turn right.",
+        "The traffic lights are on the corner.",
+        "Look left and right at the zebra crossing.",
+        "The airport is opposite the railway station.",
+        "The petrol station is behind the bridge.",
+        "The bridge is above the river.",
+        "The boat is below the bridge.",
+        "Go along the street and turn right at the crossroads.",
+        "The shop is in front of the school."
+      ]
+    },
+    {
+      "id": "3c",
+      "title": "3c. Cultural diversity",
+      "words": [
+        {
+          "en": "passenger",
+          "transcription": "/ˈpæsɪndʒə/",
+          "ru": "пассажир"
+        },
+        {
+          "en": "cyclist",
+          "transcription": "/ˈsaɪklɪst/",
+          "ru": "велосипедист"
+        },
+        {
+          "en": "pedestrian",
+          "transcription": "/pəˈdestriən/",
+          "ru": "пешеход"
+        },
+        {
+          "en": "double-decker",
+          "transcription": "/ˌdʌbl ˈdekə/",
+          "ru": "двухэтажный автобус"
+        },
+        {
+          "en": "on foot",
+          "transcription": "/ɒn fʊt/",
+          "ru": "пешком"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Всегда надевай шлем, когда едешь на мотоцикле.",
+          "en": "Always wear a helmet when you ride a motorbike.",
+          "words": [
+            "Always",
+            "wear",
+            "a",
+            "helmet",
+            "when",
+            "you",
+            "ride",
+            "a",
+            "motorbike"
+          ]
+        },
+        {
+          "ru": "Велосипедист должен соблюдать правила.",
+          "en": "A cyclist must follow the rules.",
+          "words": [
+            "A",
+            "cyclist",
+            "must",
+            "follow",
+            "the",
+            "rules"
+          ]
+        },
+        {
+          "ru": "Пешеходы переходят дорогу по пешеходному переходу.",
+          "en": "Pedestrians cross the road at the zebra crossing.",
+          "words": [
+            "Pedestrians",
+            "cross",
+            "the",
+            "road",
+            "at",
+            "the",
+            "zebra",
+            "crossing"
+          ]
+        },
+        {
+          "ru": "Лондонские двухэтажные автобусы известны во всём мире.",
+          "en": "London double-decker buses are famous around the world.",
+          "words": [
+            "London",
+            "double-decker",
+            "buses",
+            "are",
+            "famous",
+            "around",
+            "the",
+            "world"
+          ]
+        }
+      ],
+      "reading": [
+        "Always wear a helmet when you ride a motorbike.",
+        "A cyclist must follow the rules.",
+        "Pedestrians cross the road at the zebra crossing.",
+        "London double-decker buses are famous around the world."
+      ]
+    },
+    {
+      "id": "3d",
+      "title": "3d. Culture Corner",
+      "words": [
+        {
+          "en": "Tower Bridge",
+          "transcription": "/ˈtaʊə brɪdʒ/",
+          "ru": "Тауэрский мост"
+        },
+        {
+          "en": "famous",
+          "transcription": "/ˈfeɪməs/",
+          "ru": "знаменитый"
+        },
+        {
+          "en": "symbol",
+          "transcription": "/ˈsɪmbl/",
+          "ru": "символ"
+        },
+        {
+          "en": "across",
+          "transcription": "/əˈkrɒs/",
+          "ru": "через"
+        },
+        {
+          "en": "river",
+          "transcription": "/ˈrɪvə/",
+          "ru": "река"
+        }
+      ],
+      "sentences": [
+        {
+          "ru": "Тауэрский мост — знаменитый символ Лондона.",
+          "en": "Tower Bridge is a famous symbol of London.",
+          "words": [
+            "Tower",
+            "Bridge",
+            "is",
+            "a",
+            "famous",
+            "symbol",
+            "of",
+            "London"
+          ]
+        },
+        {
+          "ru": "Мост проходит через реку Темзу.",
+          "en": "The bridge goes across the river.",
+          "words": [
+            "The",
+            "bridge",
+            "goes",
+            "across",
+            "the",
+            "river"
+          ]
+        }
+      ],
+      "reading": [
+        "Tower Bridge is a famous symbol of London.",
+        "The bridge goes across the river Thames."
+      ]
+    }
+  ]
+}
